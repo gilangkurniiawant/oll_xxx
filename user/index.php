@@ -1,16 +1,75 @@
 <?php
-include('../modul/modul.php');
-$user = '"access_token":"29a98ebbbbdc8c83eef2973adb6880029cd0db05","expires_in":2592000,"token_type":"bearer","scope":"read write","refresh_token":"25260cbc708a5f558aed1619e277aeea1505aad0"}';
+session_start();
+$_SESSION['alert']='';
+$file='../gambar/a.jpg';
+$token = @$_SESSION['token'] ? $_SESSION['token'] :'';
+$d['header']='Host:api.olx.co.id
+user-agent:Android App Ver 7.16.7 (Android 5.1;)
+device:Android
+build-version:7.16.7
+build-number:663
+authorization: Bearer '.$token;
+
+$d['cookie']=1;
+
+$base = "https://api.olx.co.id/api/v2/";
+$user ="spirilunahm@gmail.com";
+$password ="haitayo123";
+$aksi = "tambah_gambar_tmp";
+
+if($aksi=='login'){
+    $d['url']=$base.'oauth/token';
+    $d['user'] = $user;
+    $d['password']= $password;
+    include('function.php');
+    login($d);
+    if($_SESSION['alert']!==''){
+        echo $_SESSION['alert'];
+
+    }
+}
+
+if($aksi=='data_iklan'){
+    $d['url']=$base.'account/adverts';
+    include('function.php');
+    data_iklan($d);
+
+}
+
+if($aksi=='tambah_gambar_tmp'){
+
+$filename  = "../gambar/a.jpg";
+ $handle    = fopen($filename, "r");
+ $img      = fread($handle, filesize($filename));
+$d['url']=$base.'account/temporary-image-storage';
+$fields = "a.jpg";
+$files = file_get_contents('../gambar/a.jpg');
+$boundary = uniqid();
+$d['data'] = get_img($boundary, $fields, $files);
 
 
-$data['cookie']=1;
-$data['url']='https://www.olx.co.id/pasang/';
-$data['data']='login%5Bemail%5D=spirilunahm%40gmail.com&login%5Bpassword%5D=haitayo123&login%5Bremember-me%5D=on';
+//echo $d['data']; die();
 
-$is = curl($data);
+    include('function.php');
+    gambar_tmp($d);
 
-echo $is['result'];
+}
 
+function get_img($boundary, $fields, $files){
+    $es = "\n";
+
+   $data = '--7cac034e-44dd-4d45-9ee3-24d65f3b2363
+   Content-Disposition: form-data; name="file"; filename="OLX_local_transformation_20190816_180330178_0_0_.jpg"
+   Content-Type: multipart/form-data
+   Content-Length: 48113
+   Content-Transfer-Encoding: binary
+   
+   '.$files.'
+   --7cac034e-44dd-4d45-9ee3-24d65f3b2363';
+
+
+    return $data;
+}
 
 
 ?>
