@@ -1,5 +1,5 @@
 <?php
-include('../modul/modul.php');
+include('modul/modul.php');
 
 
 function login($data=array()){
@@ -14,13 +14,14 @@ function login($data=array()){
             }elseif(array_key_exists('access_token',$hasil)){
                 $_SESSION['token'] = $hasil['access_token'];
                 $_SESSION['refresh_token'] = $hasil['refresh_token'];
+                header('Location:index.php?action=dashboard');
             }
 
         }else{
             $_SESSION['alert'] ="Hasil Tidak Ditemukan";
         }
-    } else{
-        $_SESSION['alert'] ="Format Data Salah/Kurang";
+    } else{ 
+            $_SESSION['alert'] ="Format Data Salah/Kurang";
     }
 
 }

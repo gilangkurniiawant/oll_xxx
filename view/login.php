@@ -14,13 +14,13 @@
 											<div class="form-group">
 												<label class="col-md-2 control-label">Email</label>
 												<div class="col-md-10">
-													<input type="number" name="email" class="form-control" placeholder="Mohon baca kolom informasi dibawah ini sebelum menginput nomor">
+													<input type="text" name="email" class="form-control" >
 												</div>
 											</div>
                                             <div class="form-group">
 												<label class="col-md-2 control-label">Password</label>
 												<div class="col-md-10">
-													<input type="number" name="password" class="form-control" placeholder="Mohon baca kolom informasi dibawah ini sebelum menginput nomor">
+													<input type="password" name="password" class="form-control">
 												</div>
 											</div>
 											<div class="form-group">

@@ -1,6 +1,5 @@
 <?php
 
-$file='../gambar/a.jpg';
 $token = @$_SESSION['token'] ? $_SESSION['token'] :'';
 $d['header']='Host:api.olx.co.id
 user-agent:Android App Ver 7.16.7 (Android 5.1;)
@@ -14,20 +13,29 @@ authorization: Bearer '.$token;
 $d['cookie']=1;
 
 $base = "https://api.olx.co.id/api/v2/";
-$user ="spirilunahm@gmail.com";
-$password ="haitayo123";
-//$aksi = "tambah_gambar_tmp";
-var_dump($_SESSION); die();
+
+
 if($aksi=='login'){
-    $d['url']=$base.'oauth/token';
-    $d['user'] = $user;
-    $d['password']= $password;
-    include('function.php');
-    login($d);
-    if($_SESSION['alert']!==''){
-        echo $_SESSION['alert'];
+    if($_SESSION['token']!=''){
+        header('Location:index.php?action=dashboard');
+        die();
+    }
+    if(@$_POST){
+       
+        if(@$_POST['email'] && @$_POST['password']){
+           
+            $user =$_POST['email'];
+            $password =$_POST['password'];
+            $d['url']=$base.'oauth/token';
+            $d['user'] = $user;
+            $d['password']= $password;
+            include('function.php');
+            login($d);
+            
+        }
 
     }
+   
 }
 
 if($aksi=='data_iklan'){

@@ -1,7 +1,7 @@
 <?php
 
 function save_history($data){
-    $file="../modul/history.txt";
+    $file="modul/history.txt";
     if(file_exists($file)){
         file_put_contents($file, "\n\n\n".$data, FILE_APPEND);
     
@@ -65,8 +65,8 @@ function curl($is = array()){
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
 
     if($cookie){
-    curl_setopt ($ch, CURLOPT_COOKIEFILE, '../modul/cookie.txt');
-    curl_setopt($ch, CURLOPT_COOKIEJAR, '../modul/cookie.txt');
+    curl_setopt ($ch, CURLOPT_COOKIEFILE, 'modul/cookie.txt');
+    curl_setopt($ch, CURLOPT_COOKIEJAR, 'modul/cookie.txt');
     curl_setopt($ch, CURLOPT_COOKIESESSION, true);
     }
 
