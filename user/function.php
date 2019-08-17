@@ -54,12 +54,12 @@ function gambar_tmp($data=array()){
     if(count($data)>=1){
         $is = curl($data);
         $hasil =  json_decode($is['result'],true);
-        var_dump($is['result']); die();
+        
         if(array_key_exists('data',$hasil)){
             if(count($hasil['data'])>1){
-                   echo "Hai";
+                    $_SESSION['tmp_img'][] = array('key'=>$hasil['data']['temporary_key'],'url'=>$hasil['data']['url']);
             }else {
-                $_SESSION['alert'] ="Tidak ada iklan";
+                $_SESSION['alert'] ="Gagal";
             }
 
         } else{
