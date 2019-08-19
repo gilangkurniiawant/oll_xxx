@@ -61,11 +61,34 @@ function gambar_tmp($data = array())
     if (count($data) >= 1) {
         $is = curl($data);
         $hasil =  json_decode($is['result'], true);
-        var_dump($hasil);
-        die();
         if (array_key_exists('data', $hasil)) {
             if (count($hasil['data']) > 1) {
-                $_SESSION['tmp_img'][] = array('key' => $hasil['data']['temporary_key'], 'url' => $hasil['data']['url']);
+                $_SESSION['tmp_img'] = array('key' => $hasil['data']['temporary_key'], 'url' => $hasil['data']['url']);
+                return 'ok';
+            } else {
+                $_SESSION['alert'] = "Gagal";
+            }
+        } else {
+            $_SESSION['alert'] = "Hasil Tidak Ditemukan";
+        }
+    } else {
+        $_SESSION['alert'] = "Format Data Salah/Kurang";
+    }
+}
+
+function make_iklan($data = array())
+{
+
+    if (count($data) >= 1) {
+        $is = curl($data);
+        $hasil =  json_decode($is['result'], true);
+
+        if (array_key_exists('data', $hasil)) {
+            if (count($hasil['data']) > 1) {
+                $_SESSION['tmp_img'] = '';
+                $_SESSION['post'] = '';
+                $_SESSION['alert'] = "Ikan berhasil diterbitkan";
+                header('Location:index.php?action=dashboard');
             } else {
                 $_SESSION['alert'] = "Gagal";
             }

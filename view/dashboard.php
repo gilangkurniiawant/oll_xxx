@@ -6,6 +6,11 @@
 
 
         ?>
+    <?php if ($_SESSION['alert'] !== '') { ?>
+    <div class="alert alert-info" role="alert">
+        <?php echo $_SESSION['alert']; ?>
+    </div>
+    <?php } ?>
     <div class="panel panel-default">
 
         <div class="panel-heading">

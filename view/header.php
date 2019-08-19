@@ -38,8 +38,8 @@
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li class=""><a href="index.php?action=login" title="Dashboard" data-toggle="" class="no-submenu">
-                            <span class="item-text">Login</span>
+                    <li class=""><a href="index.php?action=logout" title="Dashboard" data-toggle="" class="no-submenu">
+                            <span class="item-text">Logout</span>
                         </a>
                     </li>
                 </ul>
