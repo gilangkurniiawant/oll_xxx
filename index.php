@@ -7,8 +7,8 @@ $aksi='';
 
 if(@$_GET['action']){
     $aksi = $_GET['action'];
-    require_once('user/action.php');
     $file ='view/'.$_GET['action'].'.php';
+    require_once('user/action.php');
     if(file_exists($file)){   
     require_once($file);
     }
