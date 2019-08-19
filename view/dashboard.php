@@ -6,17 +6,22 @@
 
 
         ?>
-    <?php if ($_SESSION['alert'] !== '') { ?>
-    <div class="alert alert-info" role="alert">
-        <?php echo $_SESSION['alert']; ?>
-    </div>
-    <?php } ?>
+
+
     <div class="panel panel-default">
 
         <div class="panel-heading">
             <h3 class="panel-title"><i class="fa fa-history"></i> Daftar Ikan</h3>
         </div>
         <div class="panel-body">
+            <?php
+                if ($_SESSION['alert'] !== '') { ?>
+            <div class="alert alert-info" role="alert">
+                <?php
+                        echo $_SESSION['alert'];
+                        $_SESSION['alert'] = ''; ?>
+            </div>
+            <?php } ?>
             <a href="index.php?action=add_iklan" class="btn btn-primary">Tambah Iklan</a>
             <div class="table-responsive">
                 <table class="table table-striped table-bordered table-hover m-0">
@@ -37,7 +42,7 @@
                             <td><a href="<?= $d['url'] ?>" target="_blank"><?= $d['title'] ?></a></td>
                             <td><?= $kategori[$d['category_id']] ?></td>
                             <td><?= $d['params']['price']['value'] ?></td>
-                            <td><?= $d['params']['condition']['value'] ?></td>
+                            <td><?php if (@$d['params']['condition']) echo $d['params']['condition']['value'] ?></td>
                             <td><?= $d['status'] ?></td>
                         </tr>
                         <?php }

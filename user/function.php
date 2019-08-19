@@ -83,6 +83,11 @@ function make_iklan($data = array())
         $is = curl($data);
         $hasil =  json_decode($is['result'], true);
 
+        if (array_key_exists('error', $hasil)) {
+            $_SESSION['alert'] = $hasil['error']['title'];
+            header('Location:index.php?action=dashboard');
+            die();
+        }
         if (array_key_exists('data', $hasil)) {
             if (count($hasil['data']) > 1) {
                 $_SESSION['tmp_img'] = '';

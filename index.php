@@ -1,8 +1,9 @@
 <?php
-
-require_once('view/header.php');
 session_start();
-$_SESSION['alert'] = '';
+require_once('view/header.php');
+if (!@$_SESSION['alert']) {
+    $_SESSION['alert'] = '';
+}
 $aksi = '';
 
 

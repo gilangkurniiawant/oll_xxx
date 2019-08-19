@@ -24,7 +24,12 @@
 </head>
 
 <body>
+    <?php
+    /*
+    if ($_SESSION['alert'] !== '') {
 
+        echo "<script>alert('" . $_SESSION['alert'] . "')</script>";
+    } */ ?>
     <nav class="navbar navbar-default">
         <div class="container-fluid container-fluid-spacious">
             <div class="navbar-header">
@@ -36,8 +41,13 @@
                 </button>
                 <a class="navbar-brand" href="">OLX Tool</a>
             </div>
+
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
+                    <?php if (@$_SESSION['token']) {
+                        if ($_SESSION['token'] !== '') {
+                            ?>
+
                     <li class=""><a href="index.php?action=dashboard" title="Dashboard" data-toggle="" class="no-submenu">
                             <span class="item-text">Dashboard</span>
                         </a>
@@ -52,7 +62,8 @@
                     </li>
 
                 </ul>
-
+                <?php }
+                } ?>
             </div>
         </div>
         </div>

@@ -23,9 +23,11 @@ if ($aksi == 'logout') {
     session_unset();
 }
 if ($aksi == 'login') {
-    if ($_SESSION['token'] != '') {
-        header('Location:index.php?action=dashboard');
-        die();
+    if (@$_SESSION['token']) {
+        if ($_SESSION['token'] != '') {
+            header('Location:index.php?action=dashboard');
+            die();
+        }
     }
     if (@$_POST) {
 
@@ -67,8 +69,8 @@ Content-Type: text/plain
 Content-Length: ' . strlen($img);
     $d['data'] = $img;
     $d['url'] = $base . 'account/temporary-image-storage';
-
-    if (gambar_tmp($d) == 'ok') {
+    gambar_tmp($d);
+    if ($_SESSION['tmp_img']['url'] != null) {
         $_SESSION['post'] = $_POST;
         header('Location:index.php?action=publish');
         die();
