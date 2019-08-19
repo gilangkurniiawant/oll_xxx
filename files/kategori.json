@@ -1,1120 +1,366 @@
-[{
-    "kode": "86",
-    "nama": "Acer"
-}, {
-    "kode": "4895",
-    "nama": "Advan"
-}, {
-    "kode": "4893",
-    "nama": "Apple"
-}, {
-    "kode": "4896",
-    "nama": "Asus"
-}, {
-    "kode": "5190",
-    "nama": "Cross"
-}, {
-    "kode": "5194",
-    "nama": "Evercoss"
-}, {
-    "kode": "5222",
-    "nama": "HP"
-}, {
-    "kode": "4897",
-    "nama": "Huawei"
-}, {
-    "kode": "5210",
-    "nama": "IMO"
-}, {
-    "kode": "5202",
-    "nama": "Lenovo"
-}, {
-    "kode": "5198",
-    "nama": "LG"
-}, {
-    "kode": "5214",
-    "nama": "Mito"
-}, {
-    "kode": "4898",
-    "nama": "Samsung"
-}, {
-    "kode": "4899",
-    "nama": "Smartfren"
-}, {
-    "kode": "5206",
-    "nama": "Sony"
-}, {
-    "kode": "5218",
-    "nama": "Xiaomi"
-}, {
-    "kode": "4900",
-    "nama": "Lain-lain"
-}, {
-    "kode": "208",
-    "nama": "Acer"
-}, {
-    "kode": "5178",
-    "nama": "Advan"
-}, {
-    "kode": "4881",
-    "nama": "Apple"
-}, {
-    "kode": "5143",
-    "nama": "Asus"
-}, {
-    "kode": "4882",
-    "nama": "Blackberry"
-}, {
-    "kode": "5144",
-    "nama": "Cross"
-}, {
-    "kode": "5149",
-    "nama": "Evercoss"
-}, {
-    "kode": "4883",
-    "nama": "HTC"
-}, {
-    "kode": "4884",
-    "nama": "Huawei"
-}, {
-    "kode": "5145",
-    "nama": "IMO"
-}, {
-    "kode": "4885",
-    "nama": "Lenovo"
-}, {
-    "kode": "4886",
-    "nama": "LG"
-}, {
-    "kode": "5146",
-    "nama": "Mito"
-}, {
-    "kode": "4887",
-    "nama": "Motorola"
-}, {
-    "kode": "4888",
-    "nama": "Nexian"
-}, {
-    "kode": "4889",
-    "nama": "Nokia"
-}, {
-    "kode": "5147",
-    "nama": "Oppo"
-}, {
-    "kode": "4890",
-    "nama": "Samsung"
-}, {
-    "kode": "5186",
-    "nama": "Smartfren"
-}, {
-    "kode": "4891",
-    "nama": "Sony"
-}, {
-    "kode": "5148",
-    "nama": "Xiaomi"
-}, {
-    "kode": "4892",
-    "nama": "Lain-lain"
-}, {
-    "kode": "223",
-    "nama": "Action Figure"
-}, {
-    "kode": "5034",
-    "nama": "Miniatur\/Die Cast"
-}, {
-    "kode": "5035",
-    "nama": "Radio Control"
-}, {
-    "kode": "226",
-    "nama": "Administrasi"
-}, {
-    "kode": "5066",
-    "nama": "Driver"
-}, {
-    "kode": "5062",
-    "nama": "Freelance"
-}, {
-    "kode": "5063",
-    "nama": "Marketing & Sales"
-}, {
-    "kode": "5065",
-    "nama": "Security"
-}, {
-    "kode": "5064",
-    "nama": "SPG & SPB"
-}, {
-    "kode": "5067",
-    "nama": "Lowongan Lainnya"
-}, {
-    "kode": "227",
-    "nama": "Administrasi"
-}, {
-    "kode": "5073",
-    "nama": "Driver"
-}, {
-    "kode": "5069",
-    "nama": "Freelance"
-}, {
-    "kode": "5070",
-    "nama": "Marketing & Sales"
-}, {
-    "kode": "5072",
-    "nama": "Security"
-}, {
-    "kode": "5071",
-    "nama": "SPG & SPB"
-}, {
-    "kode": "5074",
-    "nama": "Lowongan Lainnya"
-}, {
-    "kode": "220",
-    "nama": "Agama & Kerohanian"
-}, {
-    "kode": "4996",
-    "nama": "Biografi & Kenangan"
-}, {
-    "kode": "4999",
-    "nama": "Buku Anak-anak"
-}, {
-    "kode": "4998",
-    "nama": "Buku Import"
-}, {
-    "kode": "5000",
-    "nama": "Buku Sekolah"
-}, {
-    "kode": "5001",
-    "nama": "Desain\/Arsitektur"
-}, {
-    "kode": "4997",
-    "nama": "Ekonomi Bisnis"
-}, {
-    "kode": "5005",
-    "nama": "Hukum & Psikologi"
-}, {
-    "kode": "5006",
-    "nama": "Ilmu Pengetahuan"
-}, {
-    "kode": "5002",
-    "nama": "Kamus & Ensiklopedia"
-}, {
-    "kode": "5007",
-    "nama": "Kesehatan, Jiwa & Raga"
-}, {
-    "kode": "5008",
-    "nama": "Komputer & Internet"
-}, {
-    "kode": "5015",
-    "nama": "Lain-lain"
-}, {
-    "kode": "5003",
-    "nama": "Lifestyle"
-}, {
-    "kode": "5009",
-    "nama": "Majalah"
-}, {
-    "kode": "5004",
-    "nama": "Novel dan Komik"
-}, {
-    "kode": "5010",
-    "nama": "Orang Tua & Keluarga"
-}, {
-    "kode": "5011",
-    "nama": "Sastra & Fiksi"
-}, {
-    "kode": "5012",
-    "nama": "Sejarah"
-}, {
-    "kode": "5013",
-    "nama": "Sosial & Politik"
-}, {
-    "kode": "5014",
-    "nama": "Teknik dan Keahlian"
-}, {
-    "kode": "203",
-    "nama": "Alat Keamanan"
-}, {
-    "kode": "4848",
-    "nama": "Alat Absensi"
-}, {
-    "kode": "4849",
-    "nama": "Mesin Kasir"
-}, {
-    "kode": "4850",
-    "nama": "Mesin Fotocopy"
-}, {
-    "kode": "4851",
-    "nama": "Lain-lain"
-}, {
-    "kode": "94",
-    "nama": "Barang Antik"
-}, {
-    "kode": "220",
-    "nama": "Musik & Film"
-}, {
-    "kode": "235",
-    "nama": "Aneka Barang Kesenangan"
-}, {
-    "kode": "5017",
-    "nama": "Anime"
-}, {
-    "kode": "5018",
-    "nama": "Batuan Fosil"
-}, {
-    "kode": "5019",
-    "nama": "Benda Pos"
-}, {
-    "kode": "5022",
-    "nama": "Jam"
-}, {
-    "kode": "5023",
-    "nama": "Kaset & Piringan Hitam"
-}, {
-    "kode": "5025",
-    "nama": "Koleksi Orang Terkenal"
-}, {
-    "kode": "5024",
-    "nama": "Militeristik"
-}, {
-    "kode": "5021",
-    "nama": "Sticker dan Gantungan Kunci"
-}, {
-    "kode": "5026",
-    "nama": "Uang dan Koin"
-}, {
-    "kode": "5020",
-    "nama": "Lain-lain"
-}, {
-    "kode": "235",
-    "nama": "Anjing"
-}, {
-    "kode": "5140",
-    "nama": "Kucing"
-}, {
-    "kode": "5138",
-    "nama": "Burung"
-}, {
-    "kode": "5137",
-    "nama": "Hewan Pengerat"
-}, {
-    "kode": "5139",
-    "nama": "Ikan"
-}, {
-    "kode": "5136",
-    "nama": "Reptil"
-}, {
-    "kode": "5135",
-    "nama": "Hewan Lainnya"
-}, {
-    "kode": "5133",
-    "nama": "Dokter & Perawatan"
-}, {
-    "kode": "5134",
-    "nama": "Makanan & Aksesoris"
-}, {
-    "kode": "200",
-    "nama": "Aprilia"
-}, {
-    "kode": "4764",
-    "nama": "Bajaj"
-}, {
-    "kode": "4765",
-    "nama": "Benelli"
-}, {
-    "kode": "4766",
-    "nama": "BMW"
-}, {
-    "kode": "4767",
-    "nama": "Ducati"
-}, {
-    "kode": "4768",
-    "nama": "Gilera"
-}, {
-    "kode": "4769",
-    "nama": "Harley Davidson"
-}, {
-    "kode": "4770",
-    "nama": "Honda"
-}, {
-    "kode": "4771",
-    "nama": "Husqvarna"
-}, {
-    "kode": "4772",
-    "nama": "Hyosung"
-}, {
-    "kode": "4773",
-    "nama": "Jialing"
-}, {
-    "kode": "4774",
-    "nama": "Kanzen"
-}, {
-    "kode": "4775",
-    "nama": "Kawasaki"
-}, {
-    "kode": "4776",
-    "nama": "Kreidler"
-}, {
-    "kode": "4777",
-    "nama": "KTM"
-}, {
-    "kode": "4778",
-    "nama": "Kymco"
-}, {
-    "kode": "4779",
-    "nama": "Minerva"
-}, {
-    "kode": "4780",
-    "nama": "Off-Road dan Auto-Cross"
-}, {
-    "kode": "4781",
-    "nama": "Piaggio"
-}, {
-    "kode": "4782",
-    "nama": "Quads dan Trikes"
-}, {
-    "kode": "4783",
-    "nama": "Sanex"
-}, {
-    "kode": "4784",
-    "nama": "Suzuki"
-}, {
-    "kode": "4785",
-    "nama": "Tossa"
-}, {
-    "kode": "4786",
-    "nama": "Triumph"
-}, {
-    "kode": "4787",
-    "nama": "TVS"
-}, {
-    "kode": "4788",
-    "nama": "Viar"
-}, {
-    "kode": "4789",
-    "nama": "Victory"
-}, {
-    "kode": "4790",
-    "nama": "Yamaha"
-}, {
-    "kode": "4791",
-    "nama": "Zundapp"
-}, {
-    "kode": "4792",
-    "nama": "Lain-lain"
-}, {
-    "kode": "198",
-    "nama": "Aston Martin"
-}, {
-    "kode": "4659",
-    "nama": "Audi"
-}, {
-    "kode": "4660",
-    "nama": "Bentley"
-}, {
-    "kode": "4661",
-    "nama": "BMW"
-}, {
-    "kode": "4662",
-    "nama": "Bus"
-}, {
-    "kode": "6001",
-    "nama": "Cadillac"
-}, {
-    "kode": "4663",
-    "nama": "Chery"
-}, {
-    "kode": "4664",
-    "nama": "Chevrolet"
-}, {
-    "kode": "4665",
-    "nama": "Chrysler"
-}, {
-    "kode": "4666",
-    "nama": "Citroen"
-}, {
-    "kode": "4667",
-    "nama": "Daewoo"
-}, {
-    "kode": "4668",
-    "nama": "Daihatsu"
-}, {
-    "kode": "4669",
-    "nama": "Datsun"
-}, {
-    "kode": "6002",
-    "nama": "DFSK (Dongfeng Sokon)"
-}, {
-    "kode": "4670",
-    "nama": "Dodge"
-}, {
-    "kode": "6003",
-    "nama": "FAW Truck"
-}, {
-    "kode": "4671",
-    "nama": "Ferrari"
-}, {
-    "kode": "4672",
-    "nama": "Fiat"
-}, {
-    "kode": "4673",
-    "nama": "Ford"
-}, {
-    "kode": "4674",
-    "nama": "Foton"
-}, {
-    "kode": "4675",
-    "nama": "Geely"
-}, {
-    "kode": "6005",
-    "nama": "Hino"
-}, {
-    "kode": "4676",
-    "nama": "Holden"
-}, {
-    "kode": "4677",
-    "nama": "Honda"
-}, {
-    "kode": "4678",
-    "nama": "Hummer"
-}, {
-    "kode": "4679",
-    "nama": "Hyundai"
-}, {
-    "kode": "4680",
-    "nama": "Infiniti"
-}, {
-    "kode": "4681",
-    "nama": "Isuzu"
-}, {
-    "kode": "4682",
-    "nama": "Jaguar"
-}, {
-    "kode": "4683",
-    "nama": "Jeep"
-}, {
-    "kode": "4684",
-    "nama": "KIA"
-}, {
-    "kode": "4685",
-    "nama": "Klasik dan Antik"
-}, {
-    "kode": "4687",
-    "nama": "Lamborghini"
-}, {
-    "kode": "4688",
-    "nama": "Land Rover"
-}, {
-    "kode": "4689",
-    "nama": "Lexus"
-}, {
-    "kode": "4690",
-    "nama": "Maserati"
-}, {
-    "kode": "4691",
-    "nama": "Mazda"
-}, {
-    "kode": "4692",
-    "nama": "Mercedes-Benz"
-}, {
-    "kode": "4693",
-    "nama": "Mini Cooper"
-}, {
-    "kode": "4694",
-    "nama": "Mitsubishi"
-}, {
-    "kode": "4695",
-    "nama": "Mobil CBU"
-}, {
-    "kode": "4696",
-    "nama": "Nissan"
-}, {
-    "kode": "4697",
-    "nama": "Opel"
-}, {
-    "kode": "4698",
-    "nama": "Peugeot"
-}, {
-    "kode": "4699",
-    "nama": "Porsche"
-}, {
-    "kode": "4700",
-    "nama": "Proton"
-}, {
-    "kode": "4701",
-    "nama": "Renault"
-}, {
-    "kode": "4702",
-    "nama": "Roll-Royce"
-}, {
-    "kode": "4703",
-    "nama": "Smart"
-}, {
-    "kode": "4704",
-    "nama": "Ssang Yong"
-}, {
-    "kode": "4705",
-    "nama": "Subaru"
-}, {
-    "kode": "4706",
-    "nama": "Suzuki"
-}, {
-    "kode": "5091",
-    "nama": "Tata"
-}, {
-    "kode": "4707",
-    "nama": "Timor"
-}, {
-    "kode": "4708",
-    "nama": "Toyota"
-}, {
-    "kode": "4709",
-    "nama": "Truk"
-}, {
-    "kode": "4710",
-    "nama": "Volkswagen"
-}, {
-    "kode": "4711",
-    "nama": "Volvo"
-}, {
-    "kode": "6004",
-    "nama": "Wuling"
-}, {
-    "kode": "4686",
-    "nama": "Lain-lain"
-}, {
-    "kode": "222",
-    "nama": "Bambu, Kayu dan Rotan"
-}, {
-    "kode": "5028",
-    "nama": "Barang Daur Ulang"
-}, {
-    "kode": "5031",
-    "nama": "Barang Pecah Belah"
-}, {
-    "kode": "5029",
-    "nama": "Batu-batuan"
-}, {
-    "kode": "5030",
-    "nama": "Logam dan Perhiasan"
-}, {
-    "kode": "5032",
-    "nama": "Ragam"
-}, {
-    "kode": "228",
-    "nama": "Bangunan & Rumah Tangga"
-}, {
-    "kode": "5076",
-    "nama": "Bengkel Mobil"
-}, {
-    "kode": "5077",
-    "nama": "Bengkel Motor"
-}, {
-    "kode": "5083",
-    "nama": "Biro Jasa"
-}, {
-    "kode": "5085",
-    "nama": "Bunga"
-}, {
-    "kode": "5078",
-    "nama": "Desain"
-}, {
-    "kode": "5087",
-    "nama": "Jasa Jahit"
-}, {
-    "kode": "5080",
-    "nama": "Komputer & Internet"
-}, {
-    "kode": "5081",
-    "nama": "Kursus"
-}, {
-    "kode": "5088",
-    "nama": "Pembantu dan Baby Sitter"
-}, {
-    "kode": "5079",
-    "nama": "Pernikahan"
-}, {
-    "kode": "5075",
-    "nama": "Rental Mobil & Motor"
-}, {
-    "kode": "5084",
-    "nama": "Service Electronic"
-}, {
-    "kode": "5082",
-    "nama": "Tour & Travel"
-}, {
-    "kode": "5089",
-    "nama": "Jasa Lainnya"
-}, {
-    "kode": "215",
-    "nama": "Casing"
-}, {
-    "kode": "4945",
-    "nama": "Baterai"
-}, {
-    "kode": "4946",
-    "nama": "Charger"
-}, {
-    "kode": "4949",
-    "nama": "Head Set"
-}, {
-    "kode": "4951",
-    "nama": "Kartu Memory"
-}, {
-    "kode": "4948",
-    "nama": "Kartu Sim"
-}, {
-    "kode": "4950",
-    "nama": "Aksesoris Lainnya"
-}, {
-    "kode": "212",
-    "nama": "Console"
-}, {
-    "kode": "4919",
-    "nama": "Portable"
-}, {
-    "kode": "4920",
-    "nama": "Games"
-}, {
-    "kode": "4921",
-    "nama": "Aksesoris"
-}, {
-    "kode": "4917",
-    "nama": "Reparasi & Perbaikan"
-}, {
-    "kode": "4826",
-    "nama": "Dijual"
-}, {
-    "kode": "5152",
-    "nama": "Disewakan"
-}, {
-    "kode": "5094",
-    "nama": "Dijual"
-}, {
-    "kode": "5156",
-    "nama": "Disewakan"
-}, {
-    "kode": "4825",
-    "nama": "Dijual"
-}, {
-    "kode": "5160",
-    "nama": "Disewakan"
-}, {
-    "kode": "4827",
-    "nama": "Dijual"
-}, {
-    "kode": "5164",
-    "nama": "Disewakan"
-}, {
-    "kode": "217",
-    "nama": "Gitar & Bass"
-}, {
-    "kode": "4970",
-    "nama": "Efek Gitar & Bass"
-}, {
-    "kode": "4965",
-    "nama": "Keyboard dan Piano"
-}, {
-    "kode": "4968",
-    "nama": "Drum & Perkusi"
-}, {
-    "kode": "4966",
-    "nama": "Alat Musik Tiup"
-}, {
-    "kode": "4967",
-    "nama": "Alat Musik Tradisional"
-}, {
-    "kode": "4972",
-    "nama": "Mixer dan Microphones"
-}, {
-    "kode": "4971",
-    "nama": "Studio dan Panggung"
-}, {
-    "kode": "4973",
-    "nama": "Aksesoris Musik"
-}, {
-    "kode": "4974",
-    "nama": "Lainnya"
-}, {
-    "kode": "92",
-    "nama": "Lampu"
-}, {
-    "kode": "210",
-    "nama": "Kamera Digital"
-}, {
-    "kode": "4910",
-    "nama": "Kamera DSLR"
-}, {
-    "kode": "4911",
-    "nama": "Lensa"
-}, {
-    "kode": "4914",
-    "nama": "Perlengkapan Kamera Pro"
-}, {
-    "kode": "4912",
-    "nama": "Aksesoris"
-}, {
-    "kode": "4915",
-    "nama": "Teleskop"
-}, {
-    "kode": "4916",
-    "nama": "Kamera Lainnya"
-}, {
-    "kode": "213",
-    "nama": "Laptop"
-}, {
-    "kode": "4924",
-    "nama": "Komputer Desktop"
-}, {
-    "kode": "4928",
-    "nama": "Printer, tinta & Scanner"
-}, {
-    "kode": "4926",
-    "nama": "Monitor"
-}, {
-    "kode": "4933",
-    "nama": "Keyboard & Mouse"
-}, {
-    "kode": "4935",
-    "nama": "Komponen"
-}, {
-    "kode": "4936",
-    "nama": "Memory"
-}, {
-    "kode": "4929",
-    "nama": "Modem & Router"
-}, {
-    "kode": "4927",
-    "nama": "Flashdisk"
-}, {
-    "kode": "4934",
-    "nama": "Hard disk"
-}, {
-    "kode": "4930",
-    "nama": "Proyektor"
-}, {
-    "kode": "4932",
-    "nama": "Kamera"
-}, {
-    "kode": "4922",
-    "nama": "Software"
-}, {
-    "kode": "4923",
-    "nama": "Aksesoris"
-}, {
-    "kode": "4931",
-    "nama": "Server"
-}, {
-    "kode": "97",
-    "nama": "Makanan & Minuman"
-}, {
-    "kode": "4835",
-    "nama": "Furniture"
-}, {
-    "kode": "4836",
-    "nama": "Dekorasi Rumah"
-}, {
-    "kode": "4842",
-    "nama": "Konstruksi dan Taman"
-}, {
-    "kode": "4841",
-    "nama": "Jam"
-}, {
-    "kode": "4844",
-    "nama": "Lampu"
-}, {
-    "kode": "202",
-    "nama": "Lain-lain"
-}, {
-    "kode": "233",
-    "nama": "Make Up"
-}, {
-    "kode": "5125",
-    "nama": "Parfum & Minyak Aromatik"
-}, {
-    "kode": "86",
-    "nama": "Aksesoris"
-}, {
-    "kode": "4762",
-    "nama": "Audio Mobil"
-}, {
-    "kode": "4759",
-    "nama": "Spare Part"
-}, {
-    "kode": "4761",
-    "nama": "Velg dan Ban"
-}, {
-    "kode": "87",
-    "nama": "Aksesoris"
-}, {
-    "kode": "4824",
-    "nama": "Helm"
-}, {
-    "kode": "4822",
-    "nama": "Spare Part"
-}, {
-    "kode": "96",
-    "nama": "Pakaian"
-}, {
-    "kode": "224",
-    "nama": "Perlengkapan Ibu Bayi"
-}, {
-    "kode": "5142",
-    "nama": "Boneka & Mainan Anak"
-}, {
-    "kode": "5046",
-    "nama": "Buku Anak-anak"
-}, {
-    "kode": "5053",
-    "nama": "Stroller"
-}, {
-    "kode": "5047",
-    "nama": "Lain-lain"
-}, {
-    "kode": "214",
-    "nama": "Peralatan Elektronik"
-}, {
-    "kode": "4939",
-    "nama": "Mesin Cuci"
-}, {
-    "kode": "4937",
-    "nama": "Alat Dapur"
-}, {
-    "kode": "4941",
-    "nama": "Kulkas & Freezer"
-}, {
-    "kode": "4940",
-    "nama": "Kipas Angin, AC & Exhaust"
-}, {
-    "kode": "4943",
-    "nama": "Alat Listrik"
-}, {
-    "kode": "4944",
-    "nama": "Telekom"
-}, {
-    "kode": "4942",
-    "nama": "Lain-lain"
-}, {
-    "kode": "202",
-    "nama": "Perlengkapan & Tempat Tidur"
-}, {
-    "kode": "4839",
-    "nama": "Kamar Mandi"
-}, {
-    "kode": "4837",
-    "nama": "Dapur"
-}, {
-    "kode": "4838",
-    "nama": "Perlengkapan Makan"
-}, {
-    "kode": "88",
-    "nama": "Indekos"
-}, {
-    "kode": "5094",
-    "nama": "Properti Lainnya"
-}, {
-    "kode": "224",
-    "nama": "Sehari-hari"
-}, {
-    "kode": "5051",
-    "nama": "Lainnya"
-}, {
-    "kode": "218",
-    "nama": "Sepakbola & Futsal"
-}, {
-    "kode": "4978",
-    "nama": "Basket"
-}, {
-    "kode": "4977",
-    "nama": "Olahraga Air"
-}, {
-    "kode": "4979",
-    "nama": "Bulutangkis & Tennis"
-}, {
-    "kode": "4980",
-    "nama": "Peralatan Fitness"
-}, {
-    "kode": "4981",
-    "nama": "Skateboard & Sepatu Roda"
-}, {
-    "kode": "4982",
-    "nama": "Hiking & Panjat Tebing"
-}, {
-    "kode": "4983",
-    "nama": "Beladiri"
-}, {
-    "kode": "4984",
-    "nama": "Memancing"
-}, {
-    "kode": "4985",
-    "nama": "Olahraga Lainnya"
-}, {
-    "kode": "219",
-    "nama": "Sepeda Gunung"
-}, {
-    "kode": "4987",
-    "nama": "Sepeda Anak"
-}, {
-    "kode": "4988",
-    "nama": "Sepeda BMX"
-}, {
-    "kode": "4989",
-    "nama": "Sepeda Fixie"
-}, {
-    "kode": "4990",
-    "nama": "Lipat"
-}, {
-    "kode": "4993",
-    "nama": "Aksesoris"
-}, {
-    "kode": "4992",
-    "nama": "Suku Cadang"
-}, {
-    "kode": "4991",
-    "nama": "Sepeda Lainnya"
-}, {
-    "kode": "210",
-    "nama": "Televisi"
-}, {
-    "kode": "4902",
-    "nama": "Home Theater & Speaker"
-}, {
-    "kode": "4905",
-    "nama": "Video Player"
-}, {
-    "kode": "4909",
-    "nama": "Pemutar Musik Portable"
-}, {
-    "kode": "4907",
-    "nama": "Audio Player & Rec"
-}, {
-    "kode": "4906",
-    "nama": "Headphone"
-}, {
-    "kode": "4904",
-    "nama": "Kamera Video"
-}, {
-    "kode": "4903",
-    "nama": "Antena"
-}, {
-    "kode": "4901",
-    "nama": "Aksesoris & Kabel"
-}, {
-    "kode": "231",
-    "nama": "Analog"
-}, {
-    "kode": "5114",
-    "nama": "Digital"
-}, {
-    "kode": "232",
-    "nama": "Anting"
-}, {
-    "kode": "5120",
-    "nama": "Cincin"
-}, {
-    "kode": "5116",
-    "nama": "Kalung"
-}, {
-    "kode": "5121",
-    "nama": "Gelang"
-}, {
-    "kode": "5119",
-    "nama": "Batu Permata"
-}, {
-    "kode": "5118",
-    "nama": "Lain-lain"
-}, {
-    "kode": "230",
-    "nama": "Atasan"
-}, {
-    "kode": "5110",
-    "nama": "Celana"
-}, {
-    "kode": "5109",
-    "nama": "Rok"
-}, {
-    "kode": "5111",
-    "nama": "Busana Muslim"
-}, {
-    "kode": "5108",
-    "nama": "Dress"
-}, {
-    "kode": "5106",
-    "nama": "Kebaya"
-}, {
-    "kode": "5104",
-    "nama": "Baju Tidur"
-}, {
-    "kode": "5102",
-    "nama": "Baju Hamil"
-}, {
-    "kode": "5103",
-    "nama": "Pakaian Dalam"
-}, {
-    "kode": "5107",
-    "nama": "Sepatu & Sandal"
-}, {
-    "kode": "5105",
-    "nama": "Tas & Dompet"
-}, {
-    "kode": "5113",
-    "nama": "Aksesoris"
-}, {
-    "kode": "229",
-    "nama": "Baju"
-}, {
-    "kode": "5100",
-    "nama": "Jas, Jaket & Sweater"
-}, {
-    "kode": "5099",
-    "nama": "Celana"
-}, {
-    "kode": "5098",
-    "nama": "Sandal"
-}, {
-    "kode": "5097",
-    "nama": "Sepatu"
-}, {
-    "kode": "5096",
-    "nama": "Aksesoris"
-}, {
-    "kode": "98",
-    "nama": "Pakaian Olahraga"
-}, {
-    "kode": "232",
-    "nama": "Terapi & Pengobatan"
-}, {
-    "kode": "234",
-    "nama": "Nutrisi & Suplemen"
-}, {
-    "kode": "5124",
-    "nama": "Lainnya"
-}, {
-    "kode": "234",
-    "nama": "Mandi & Perawatan Tubuh"
-}, {
-    "kode": "5128",
-    "nama": "Mulut & Gigi"
-}, {
-    "kode": "5127",
-    "nama": "Rambut & Bulu"
-}, {
-    "kode": "5130",
-    "nama": "Kulit"
-}, {
-    "kode": "5131",
-    "nama": "Mata"
-}, {
-    "kode": "5132",
-    "nama": "Kuku"
-}, {
-    "kode": "90",
-    "nama": "Perlengkapan Usaha"
-}, {
-    "kode": "4846",
-    "nama": "Mesin & Keperluan Industri"
-}, {
-    "kode": "4852",
-    "nama": "Stationery"
-}, {
-    "kode": "4853",
-    "nama": "Lain-lain"
-}]
+{
+    "86": "Aksesoris",
+    "4895": "Advan",
+    "4893": "Apple",
+    "4896": "Asus",
+    "5190": "Cross",
+    "5194": "Evercoss",
+    "5222": "HP",
+    "4897": "Huawei",
+    "5210": "IMO",
+    "5202": "Lenovo",
+    "5198": "LG",
+    "5214": "Mito",
+    "4898": "Samsung",
+    "4899": "Smartfren",
+    "5206": "Sony",
+    "5218": "Xiaomi",
+    "4900": "Lain-lain",
+    "208": "Acer",
+    "5178": "Advan",
+    "4881": "Apple",
+    "5143": "Asus",
+    "4882": "Blackberry",
+    "5144": "Cross",
+    "5149": "Evercoss",
+    "4883": "HTC",
+    "4884": "Huawei",
+    "5145": "IMO",
+    "4885": "Lenovo",
+    "4886": "LG",
+    "5146": "Mito",
+    "4887": "Motorola",
+    "4888": "Nexian",
+    "4889": "Nokia",
+    "5147": "Oppo",
+    "4890": "Samsung",
+    "5186": "Smartfren",
+    "4891": "Sony",
+    "5148": "Xiaomi",
+    "4892": "Lain-lain",
+    "223": "Action Figure",
+    "5034": "Miniatur\/Die Cast",
+    "5035": "Radio Control",
+    "226": "Administrasi",
+    "5066": "Driver",
+    "5062": "Freelance",
+    "5063": "Marketing & Sales",
+    "5065": "Security",
+    "5064": "SPG & SPB",
+    "5067": "Lowongan Lainnya",
+    "227": "Administrasi",
+    "5073": "Driver",
+    "5069": "Freelance",
+    "5070": "Marketing & Sales",
+    "5072": "Security",
+    "5071": "SPG & SPB",
+    "5074": "Lowongan Lainnya",
+    "220": "Musik & Film",
+    "4996": "Biografi & Kenangan",
+    "4999": "Buku Anak-anak",
+    "4998": "Buku Import",
+    "5000": "Buku Sekolah",
+    "5001": "Desain\/Arsitektur",
+    "4997": "Ekonomi Bisnis",
+    "5005": "Hukum & Psikologi",
+    "5006": "Ilmu Pengetahuan",
+    "5002": "Kamus & Ensiklopedia",
+    "5007": "Kesehatan, Jiwa & Raga",
+    "5008": "Komputer & Internet",
+    "5015": "Lain-lain",
+    "5003": "Lifestyle",
+    "5009": "Majalah",
+    "5004": "Novel dan Komik",
+    "5010": "Orang Tua & Keluarga",
+    "5011": "Sastra & Fiksi",
+    "5012": "Sejarah",
+    "5013": "Sosial & Politik",
+    "5014": "Teknik dan Keahlian",
+    "203": "Alat Keamanan",
+    "4848": "Alat Absensi",
+    "4849": "Mesin Kasir",
+    "4850": "Mesin Fotocopy",
+    "4851": "Lain-lain",
+    "94": "Barang Antik",
+    "235": "Anjing",
+    "5017": "Anime",
+    "5018": "Batuan Fosil",
+    "5019": "Benda Pos",
+    "5022": "Jam",
+    "5023": "Kaset & Piringan Hitam",
+    "5025": "Koleksi Orang Terkenal",
+    "5024": "Militeristik",
+    "5021": "Sticker dan Gantungan Kunci",
+    "5026": "Uang dan Koin",
+    "5020": "Lain-lain",
+    "5140": "Kucing",
+    "5138": "Burung",
+    "5137": "Hewan Pengerat",
+    "5139": "Ikan",
+    "5136": "Reptil",
+    "5135": "Hewan Lainnya",
+    "5133": "Dokter & Perawatan",
+    "5134": "Makanan & Aksesoris",
+    "200": "Aprilia",
+    "4764": "Bajaj",
+    "4765": "Benelli",
+    "4766": "BMW",
+    "4767": "Ducati",
+    "4768": "Gilera",
+    "4769": "Harley Davidson",
+    "4770": "Honda",
+    "4771": "Husqvarna",
+    "4772": "Hyosung",
+    "4773": "Jialing",
+    "4774": "Kanzen",
+    "4775": "Kawasaki",
+    "4776": "Kreidler",
+    "4777": "KTM",
+    "4778": "Kymco",
+    "4779": "Minerva",
+    "4780": "Off-Road dan Auto-Cross",
+    "4781": "Piaggio",
+    "4782": "Quads dan Trikes",
+    "4783": "Sanex",
+    "4784": "Suzuki",
+    "4785": "Tossa",
+    "4786": "Triumph",
+    "4787": "TVS",
+    "4788": "Viar",
+    "4789": "Victory",
+    "4790": "Yamaha",
+    "4791": "Zundapp",
+    "4792": "Lain-lain",
+    "198": "Aston Martin",
+    "4659": "Audi",
+    "4660": "Bentley",
+    "4661": "BMW",
+    "4662": "Bus",
+    "6001": "Cadillac",
+    "4663": "Chery",
+    "4664": "Chevrolet",
+    "4665": "Chrysler",
+    "4666": "Citroen",
+    "4667": "Daewoo",
+    "4668": "Daihatsu",
+    "4669": "Datsun",
+    "6002": "DFSK (Dongfeng Sokon)",
+    "4670": "Dodge",
+    "6003": "FAW Truck",
+    "4671": "Ferrari",
+    "4672": "Fiat",
+    "4673": "Ford",
+    "4674": "Foton",
+    "4675": "Geely",
+    "6005": "Hino",
+    "4676": "Holden",
+    "4677": "Honda",
+    "4678": "Hummer",
+    "4679": "Hyundai",
+    "4680": "Infiniti",
+    "4681": "Isuzu",
+    "4682": "Jaguar",
+    "4683": "Jeep",
+    "4684": "KIA",
+    "4685": "Klasik dan Antik",
+    "4687": "Lamborghini",
+    "4688": "Land Rover",
+    "4689": "Lexus",
+    "4690": "Maserati",
+    "4691": "Mazda",
+    "4692": "Mercedes-Benz",
+    "4693": "Mini Cooper",
+    "4694": "Mitsubishi",
+    "4695": "Mobil CBU",
+    "4696": "Nissan",
+    "4697": "Opel",
+    "4698": "Peugeot",
+    "4699": "Porsche",
+    "4700": "Proton",
+    "4701": "Renault",
+    "4702": "Roll-Royce",
+    "4703": "Smart",
+    "4704": "Ssang Yong",
+    "4705": "Subaru",
+    "4706": "Suzuki",
+    "5091": "Tata",
+    "4707": "Timor",
+    "4708": "Toyota",
+    "4709": "Truk",
+    "4710": "Volkswagen",
+    "4711": "Volvo",
+    "6004": "Wuling",
+    "4686": "Lain-lain",
+    "222": "Bambu, Kayu dan Rotan",
+    "5028": "Barang Daur Ulang",
+    "5031": "Barang Pecah Belah",
+    "5029": "Batu-batuan",
+    "5030": "Logam dan Perhiasan",
+    "5032": "Ragam",
+    "228": "Bangunan & Rumah Tangga",
+    "5076": "Bengkel Mobil",
+    "5077": "Bengkel Motor",
+    "5083": "Biro Jasa",
+    "5085": "Bunga",
+    "5078": "Desain",
+    "5087": "Jasa Jahit",
+    "5080": "Komputer & Internet",
+    "5081": "Kursus",
+    "5088": "Pembantu dan Baby Sitter",
+    "5079": "Pernikahan",
+    "5075": "Rental Mobil & Motor",
+    "5084": "Service Electronic",
+    "5082": "Tour & Travel",
+    "5089": "Jasa Lainnya",
+    "215": "Casing",
+    "4945": "Baterai",
+    "4946": "Charger",
+    "4949": "Head Set",
+    "4951": "Kartu Memory",
+    "4948": "Kartu Sim",
+    "4950": "Aksesoris Lainnya",
+    "212": "Console",
+    "4919": "Portable",
+    "4920": "Games",
+    "4921": "Aksesoris",
+    "4917": "Reparasi & Perbaikan",
+    "4826": "Dijual",
+    "5152": "Disewakan",
+    "5094": "Properti Lainnya",
+    "5156": "Disewakan",
+    "4825": "Dijual",
+    "5160": "Disewakan",
+    "4827": "Dijual",
+    "5164": "Disewakan",
+    "217": "Gitar & Bass",
+    "4970": "Efek Gitar & Bass",
+    "4965": "Keyboard dan Piano",
+    "4968": "Drum & Perkusi",
+    "4966": "Alat Musik Tiup",
+    "4967": "Alat Musik Tradisional",
+    "4972": "Mixer dan Microphones",
+    "4971": "Studio dan Panggung",
+    "4973": "Aksesoris Musik",
+    "4974": "Lainnya",
+    "92": "Lampu",
+    "210": "Televisi",
+    "4910": "Kamera DSLR",
+    "4911": "Lensa",
+    "4914": "Perlengkapan Kamera Pro",
+    "4912": "Aksesoris",
+    "4915": "Teleskop",
+    "4916": "Kamera Lainnya",
+    "213": "Laptop",
+    "4924": "Komputer Desktop",
+    "4928": "Printer, tinta & Scanner",
+    "4926": "Monitor",
+    "4933": "Keyboard & Mouse",
+    "4935": "Komponen",
+    "4936": "Memory",
+    "4929": "Modem & Router",
+    "4927": "Flashdisk",
+    "4934": "Hard disk",
+    "4930": "Proyektor",
+    "4932": "Kamera",
+    "4922": "Software",
+    "4923": "Aksesoris",
+    "4931": "Server",
+    "97": "Makanan & Minuman",
+    "4835": "Furniture",
+    "4836": "Dekorasi Rumah",
+    "4842": "Konstruksi dan Taman",
+    "4841": "Jam",
+    "4844": "Lampu",
+    "202": "Perlengkapan & Tempat Tidur",
+    "233": "Make Up",
+    "5125": "Parfum & Minyak Aromatik",
+    "4762": "Audio Mobil",
+    "4759": "Spare Part",
+    "4761": "Velg dan Ban",
+    "87": "Aksesoris",
+    "4824": "Helm",
+    "4822": "Spare Part",
+    "96": "Pakaian",
+    "224": "Sehari-hari",
+    "5142": "Boneka & Mainan Anak",
+    "5046": "Buku Anak-anak",
+    "5053": "Stroller",
+    "5047": "Lain-lain",
+    "214": "Peralatan Elektronik",
+    "4939": "Mesin Cuci",
+    "4937": "Alat Dapur",
+    "4941": "Kulkas & Freezer",
+    "4940": "Kipas Angin, AC & Exhaust",
+    "4943": "Alat Listrik",
+    "4944": "Telekom",
+    "4942": "Lain-lain",
+    "4839": "Kamar Mandi",
+    "4837": "Dapur",
+    "4838": "Perlengkapan Makan",
+    "88": "Indekos",
+    "5051": "Lainnya",
+    "218": "Sepakbola & Futsal",
+    "4978": "Basket",
+    "4977": "Olahraga Air",
+    "4979": "Bulutangkis & Tennis",
+    "4980": "Peralatan Fitness",
+    "4981": "Skateboard & Sepatu Roda",
+    "4982": "Hiking & Panjat Tebing",
+    "4983": "Beladiri",
+    "4984": "Memancing",
+    "4985": "Olahraga Lainnya",
+    "219": "Sepeda Gunung",
+    "4987": "Sepeda Anak",
+    "4988": "Sepeda BMX",
+    "4989": "Sepeda Fixie",
+    "4990": "Lipat",
+    "4993": "Aksesoris",
+    "4992": "Suku Cadang",
+    "4991": "Sepeda Lainnya",
+    "4902": "Home Theater & Speaker",
+    "4905": "Video Player",
+    "4909": "Pemutar Musik Portable",
+    "4907": "Audio Player & Rec",
+    "4906": "Headphone",
+    "4904": "Kamera Video",
+    "4903": "Antena",
+    "4901": "Aksesoris & Kabel",
+    "231": "Analog",
+    "5114": "Digital",
+    "232": "Terapi & Pengobatan",
+    "5120": "Cincin",
+    "5116": "Kalung",
+    "5121": "Gelang",
+    "5119": "Batu Permata",
+    "5118": "Lain-lain",
+    "230": "Atasan",
+    "5110": "Celana",
+    "5109": "Rok",
+    "5111": "Busana Muslim",
+    "5108": "Dress",
+    "5106": "Kebaya",
+    "5104": "Baju Tidur",
+    "5102": "Baju Hamil",
+    "5103": "Pakaian Dalam",
+    "5107": "Sepatu & Sandal",
+    "5105": "Tas & Dompet",
+    "5113": "Aksesoris",
+    "229": "Baju",
+    "5100": "Jas, Jaket & Sweater",
+    "5099": "Celana",
+    "5098": "Sandal",
+    "5097": "Sepatu",
+    "5096": "Aksesoris",
+    "98": "Pakaian Olahraga",
+    "234": "Mandi & Perawatan Tubuh",
+    "5124": "Lainnya",
+    "5128": "Mulut & Gigi",
+    "5127": "Rambut & Bulu",
+    "5130": "Kulit",
+    "5131": "Mata",
+    "5132": "Kuku",
+    "90": "Perlengkapan Usaha",
+    "4846": "Mesin & Keperluan Industri",
+    "4852": "Stationery",
+    "4853": "Lain-lain"
+}
