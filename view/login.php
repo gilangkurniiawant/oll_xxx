@@ -8,7 +8,7 @@
 		<?php } ?>
 		<div class="panel panel-default">
 			<div class="panel-heading">
-				<h3 class="panel-title"><i class="fa fa-user"></i> Login</h3>
+				<h3 class="panel-title"><i class="fa fa-user"></i> Login Akun OLX</h3>
 			</div>
 			<div class="panel-body">
 				<form class="form-horizontal" role="form" action="index.php?action=login" method="POST">
