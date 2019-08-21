@@ -23,6 +23,7 @@ if ($aksi !== 'login') {
 if ($aksi == 'logout') {
     session_destroy();
     session_unset();
+    header('Location:index.php?action=login');
 }
 if ($aksi == 'login') {
 
@@ -34,7 +35,7 @@ if ($aksi == 'login') {
     }
     if (@$_POST) {
 
-        if (@$_POST['email'] && @$_POST['password']) {
+        if ($_POST['email'] !== '' && $_POST['password'] !== '') {
 
             $user = $_POST['email'];
             $password = $_POST['password'];
