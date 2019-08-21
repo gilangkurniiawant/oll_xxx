@@ -1,0 +1,3765 @@
+{
+    "data": [{
+        "id": 1000001,
+        "name": "Indonesia",
+        "type": "COUNTRY",
+        "longitude": 106.84513,
+        "latitude": -6.21462,
+        "children": [{
+            "id": 2000001,
+            "name": "Aceh D.I.",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000082,
+                "name": "Aceh Barat Daya Kab.",
+                "type": "CITY",
+                "longitude": 96.85232,
+                "latitude": 3.73958,
+                "children": []
+            }, {
+                "id": 4000081,
+                "name": "Aceh Barat Kab.",
+                "type": "CITY",
+                "longitude": 96.13242,
+                "latitude": 4.15064,
+                "children": []
+            }, {
+                "id": 4000083,
+                "name": "Aceh Besar Kab.",
+                "type": "CITY",
+                "longitude": 95.69556,
+                "latitude": 5.17041,
+                "children": []
+            }, {
+                "id": 4000084,
+                "name": "Aceh Jaya Kab.",
+                "type": "CITY",
+                "longitude": 95.35703,
+                "latitude": 5.04561,
+                "children": []
+            }, {
+                "id": 4000085,
+                "name": "Aceh Selatan Kab.",
+                "type": "CITY",
+                "longitude": 97.2056,
+                "latitude": 3.31803,
+                "children": []
+            }, {
+                "id": 4000086,
+                "name": "Aceh Singkil Kab.",
+                "type": "CITY",
+                "longitude": 97.79916,
+                "latitude": 2.28368,
+                "children": []
+            }, {
+                "id": 4000087,
+                "name": "Aceh Tamiang Kab.",
+                "type": "CITY",
+                "longitude": 98.05862,
+                "latitude": 4.2874,
+                "children": []
+            }, {
+                "id": 4000088,
+                "name": "Aceh Tengah Kab.",
+                "type": "CITY",
+                "longitude": 96.81311,
+                "latitude": 4.58882,
+                "children": []
+            }, {
+                "id": 4000089,
+                "name": "Aceh Tenggara Kab.",
+                "type": "CITY",
+                "longitude": 97.80853,
+                "latitude": 3.50826,
+                "children": []
+            }, {
+                "id": 4000090,
+                "name": "Aceh Timur Kab.",
+                "type": "CITY",
+                "longitude": 97.77356,
+                "latitude": 4.94757,
+                "children": []
+            }, {
+                "id": 4000091,
+                "name": "Aceh Utara Kab.",
+                "type": "CITY",
+                "longitude": 97.22214,
+                "latitude": 4.97863,
+                "children": []
+            }, {
+                "id": 4000099,
+                "name": "Banda Aceh Kota",
+                "type": "CITY",
+                "longitude": 95.32441,
+                "latitude": 5.54846,
+                "children": []
+            }, {
+                "id": 4000092,
+                "name": "Bener Meriah Kab.",
+                "type": "CITY",
+                "longitude": 96.86101,
+                "latitude": 4.70586,
+                "children": []
+            }, {
+                "id": 4000093,
+                "name": "Bireuen Kab.",
+                "type": "CITY",
+                "longitude": 96.71727,
+                "latitude": 5.22232,
+                "children": []
+            }, {
+                "id": 4000094,
+                "name": "Gayo Lues Kab.",
+                "type": "CITY",
+                "longitude": 97.32335,
+                "latitude": 4.00089,
+                "children": []
+            }, {
+                "id": 4000100,
+                "name": "Langsa Kota",
+                "type": "CITY",
+                "longitude": 97.96348,
+                "latitude": 4.4753,
+                "children": []
+            }, {
+                "id": 4000101,
+                "name": "Lhokseumawe Kota",
+                "type": "CITY",
+                "longitude": 97.13304,
+                "latitude": 5.18146,
+                "children": []
+            }, {
+                "id": 4000095,
+                "name": "Nagan Raya Kab.",
+                "type": "CITY",
+                "longitude": 96.3233,
+                "latitude": 4.17205,
+                "children": []
+            }, {
+                "id": 4000097,
+                "name": "Pidie Jaya Kab.",
+                "type": "CITY",
+                "longitude": 96.24439,
+                "latitude": 5.22618,
+                "children": []
+            }, {
+                "id": 4000096,
+                "name": "Pidie Kab.",
+                "type": "CITY",
+                "longitude": 95.94203,
+                "latitude": 5.37806,
+                "children": []
+            }, {
+                "id": 4000102,
+                "name": "Sabang Kota",
+                "type": "CITY",
+                "longitude": 95.33688,
+                "latitude": 5.88038,
+                "children": []
+            }, {
+                "id": 4000098,
+                "name": "Simeulue Kab.",
+                "type": "CITY",
+                "longitude": 96.37679,
+                "latitude": 2.46558,
+                "children": []
+            }, {
+                "id": 4000103,
+                "name": "Subulussalam Kota",
+                "type": "CITY",
+                "longitude": 97.91571,
+                "latitude": 2.71212,
+                "children": []
+            }]
+        }, {
+            "id": 2000002,
+            "name": "Bali",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000219,
+                "name": "Buleleng Kab.",
+                "type": "CITY",
+                "longitude": 115.09234,
+                "latitude": -8.11958,
+                "children": []
+            }, {
+                "id": 4000225,
+                "name": "Denpasar Kota",
+                "type": "CITY",
+                "longitude": 115.21363,
+                "latitude": -8.66046,
+                "children": []
+            }, {
+                "id": 4000220,
+                "name": "Gianyar Kab.",
+                "type": "CITY",
+                "longitude": 115.3223,
+                "latitude": -8.53897,
+                "children": []
+            }, {
+                "id": 4000221,
+                "name": "Jembrana Kab.",
+                "type": "CITY",
+                "longitude": 114.62927,
+                "latitude": -8.36117,
+                "children": []
+            }, {
+                "id": 4000217,
+                "name": "Kab. Badung",
+                "type": "CITY",
+                "longitude": 115.12964,
+                "latitude": -8.61561,
+                "children": []
+            }, {
+                "id": 4000218,
+                "name": "Kab. Bangli",
+                "type": "CITY",
+                "longitude": 115.34841,
+                "latitude": -8.48654,
+                "children": []
+            }, {
+                "id": 4000222,
+                "name": "Karangasem Kab.",
+                "type": "CITY",
+                "longitude": 115.60887,
+                "latitude": -8.44708,
+                "children": []
+            }, {
+                "id": 4000223,
+                "name": "Klungkung Kab.",
+                "type": "CITY",
+                "longitude": 115.40498,
+                "latitude": -8.5298,
+                "children": []
+            }, {
+                "id": 4000224,
+                "name": "Tabanan Kab.",
+                "type": "CITY",
+                "longitude": 115.13354,
+                "latitude": -8.53948,
+                "children": []
+            }]
+        }, {
+            "id": 2000003,
+            "name": "Bangka Belitung",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000395,
+                "name": "Bangka Barat Kab.",
+                "type": "CITY",
+                "longitude": 105.20359,
+                "latitude": -2.05488,
+                "children": []
+            }, {
+                "id": 4000396,
+                "name": "Bangka Selatan Kab.",
+                "type": "CITY",
+                "longitude": 106.47699,
+                "latitude": -3.01,
+                "children": []
+            }, {
+                "id": 4000397,
+                "name": "Bangka Tengah Kab.",
+                "type": "CITY",
+                "longitude": 106.41755,
+                "latitude": -2.51835,
+                "children": []
+            }, {
+                "id": 4000398,
+                "name": "Belitung Kab.",
+                "type": "CITY",
+                "longitude": 107.63004,
+                "latitude": -2.73844,
+                "children": []
+            }, {
+                "id": 4000399,
+                "name": "Belitung Timur Kab.",
+                "type": "CITY",
+                "longitude": 108.24123,
+                "latitude": -2.88493,
+                "children": []
+            }, {
+                "id": 4000394,
+                "name": "Kab. Bangka",
+                "type": "CITY",
+                "longitude": 106.10408,
+                "latitude": -1.88176,
+                "children": []
+            }, {
+                "id": 4000400,
+                "name": "Pangkal Pinang Kota",
+                "type": "CITY",
+                "longitude": 106.11641,
+                "latitude": -2.13126,
+                "children": []
+            }]
+        }, {
+            "id": 2000004,
+            "name": "Banten",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000077,
+                "name": "Cilegon Kota",
+                "type": "CITY",
+                "longitude": 106.01069,
+                "latitude": -6.00316,
+                "children": []
+            }, {
+                "id": 4000073,
+                "name": "Lebak Kab.",
+                "type": "CITY",
+                "longitude": 106.21103,
+                "latitude": -6.6325,
+                "children": []
+            }, {
+                "id": 4000498,
+                "name": "Pandeglang Kab.",
+                "type": "CITY",
+                "longitude": 106.11657,
+                "latitude": -6.32664,
+                "children": []
+            }, {
+                "id": 4000075,
+                "name": "Serang Kab.",
+                "type": "CITY",
+                "longitude": 106.12578,
+                "latitude": -6.0831,
+                "children": []
+            }, {
+                "id": 4000078,
+                "name": "Serang Kota",
+                "type": "CITY",
+                "longitude": 106.16245,
+                "latitude": -6.11048,
+                "children": []
+            }, {
+                "id": 4000076,
+                "name": "Tangerang Kab.",
+                "type": "CITY",
+                "longitude": 106.48475,
+                "latitude": -6.25096,
+                "children": []
+            }, {
+                "id": 4000079,
+                "name": "Tangerang Kota",
+                "type": "CITY",
+                "longitude": 106.65827,
+                "latitude": -6.20365,
+                "children": []
+            }, {
+                "id": 4000080,
+                "name": "Tangerang Selatan Kota",
+                "type": "CITY",
+                "longitude": 106.71346,
+                "latitude": -6.28731,
+                "children": []
+            }]
+        }, {
+            "id": 2000005,
+            "name": "Bengkulu",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000393,
+                "name": "Bengkulu Kota",
+                "type": "CITY",
+                "longitude": 102.26063,
+                "latitude": -3.79314,
+                "children": []
+            }, {
+                "id": 4000384,
+                "name": "Bengkulu Selatan Kab.",
+                "type": "CITY",
+                "longitude": 102.91049,
+                "latitude": -4.46158,
+                "children": []
+            }, {
+                "id": 4000385,
+                "name": "Bengkulu Tengah Kab.",
+                "type": "CITY",
+                "longitude": 102.40783,
+                "latitude": -3.70071,
+                "children": []
+            }, {
+                "id": 4000386,
+                "name": "Bengkulu Utara Kab.",
+                "type": "CITY",
+                "longitude": 102.18324,
+                "latitude": -3.44041,
+                "children": []
+            }, {
+                "id": 4000387,
+                "name": "Kaur Kab.",
+                "type": "CITY",
+                "longitude": 103.26978,
+                "latitude": -4.51943,
+                "children": []
+            }, {
+                "id": 4000388,
+                "name": "Kepahiang Kab.",
+                "type": "CITY",
+                "longitude": 102.56306,
+                "latitude": -3.6207,
+                "children": []
+            }, {
+                "id": 4000389,
+                "name": "Lebong Kab.",
+                "type": "CITY",
+                "longitude": 102.1978,
+                "latitude": -3.11973,
+                "children": []
+            }, {
+                "id": 4000390,
+                "name": "Mukomuko Kab.",
+                "type": "CITY",
+                "longitude": 101.13292,
+                "latitude": -2.54524,
+                "children": []
+            }, {
+                "id": 4000391,
+                "name": "Rejang Lebong Kab.",
+                "type": "CITY",
+                "longitude": 102.51656,
+                "latitude": -3.46622,
+                "children": []
+            }, {
+                "id": 4000392,
+                "name": "Seluma Kab.",
+                "type": "CITY",
+                "longitude": 102.56379,
+                "latitude": -4.0621,
+                "children": []
+            }]
+        }, {
+            "id": 2000006,
+            "name": "Gorontalo",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000349,
+                "name": "Boalemo Kab.",
+                "type": "CITY",
+                "longitude": 122.34452,
+                "latitude": 0.5203,
+                "children": []
+            }, {
+                "id": 4000350,
+                "name": "Bone Bolango Kab.",
+                "type": "CITY",
+                "longitude": 123.13981,
+                "latitude": 0.55059,
+                "children": []
+            }, {
+                "id": 4000351,
+                "name": "Gorontalo Kab.",
+                "type": "CITY",
+                "longitude": 122.80822,
+                "latitude": 0.57121,
+                "children": []
+            }, {
+                "id": 4000354,
+                "name": "Gorontalo Kota",
+                "type": "CITY",
+                "longitude": 123.0565,
+                "latitude": 0.54446,
+                "children": []
+            }, {
+                "id": 4000352,
+                "name": "Gorontalo Utara Kab.",
+                "type": "CITY",
+                "longitude": 122.87527,
+                "latitude": 0.79654,
+                "children": []
+            }, {
+                "id": 4000353,
+                "name": "Pohuwato Kab.",
+                "type": "CITY",
+                "longitude": 121.94776,
+                "latitude": 0.46034,
+                "children": []
+            }]
+        }, {
+            "id": 2000007,
+            "name": "Jakarta D.K.I.",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000028,
+                "name": "Jakarta Barat",
+                "type": "CITY",
+                "longitude": 106.75211,
+                "latitude": -6.16836,
+                "children": []
+            }, {
+                "id": 4000029,
+                "name": "Jakarta Pusat",
+                "type": "CITY",
+                "longitude": 106.83475,
+                "latitude": -6.18641,
+                "children": []
+            }, {
+                "id": 4000030,
+                "name": "Jakarta Selatan",
+                "type": "CITY",
+                "longitude": 106.80105,
+                "latitude": -6.2609,
+                "children": []
+            }, {
+                "id": 4000031,
+                "name": "Jakarta Timur",
+                "type": "CITY",
+                "longitude": 106.89608,
+                "latitude": -6.22427,
+                "children": []
+            }, {
+                "id": 4000032,
+                "name": "Jakarta Utara",
+                "type": "CITY",
+                "longitude": 106.86559,
+                "latitude": -6.13588,
+                "children": []
+            }, {
+                "id": 4000027,
+                "name": "Kepulauan Seribu",
+                "type": "CITY",
+                "longitude": 106.52328,
+                "latitude": -5.80299,
+                "children": []
+            }]
+        }, {
+            "id": 2000008,
+            "name": "Jambi",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000168,
+                "name": "Batang Hari Kab.",
+                "type": "CITY",
+                "longitude": 103.07331,
+                "latitude": -1.62792,
+                "children": []
+            }, {
+                "id": 4000169,
+                "name": "Bungo Kab.",
+                "type": "CITY",
+                "longitude": 101.8849,
+                "latitude": -1.63654,
+                "children": []
+            }, {
+                "id": 4000177,
+                "name": "Jambi Kota",
+                "type": "CITY",
+                "longitude": 103.61365,
+                "latitude": -1.60117,
+                "children": []
+            }, {
+                "id": 4000170,
+                "name": "Kerinci Kab.",
+                "type": "CITY",
+                "longitude": 101.43209,
+                "latitude": -1.83337,
+                "children": []
+            }, {
+                "id": 4000171,
+                "name": "Merangin Kab.",
+                "type": "CITY",
+                "longitude": 101.98708,
+                "latitude": -2.17128,
+                "children": []
+            }, {
+                "id": 4000172,
+                "name": "Muaro Jambi Kab.",
+                "type": "CITY",
+                "longitude": 103.80161,
+                "latitude": -1.46325,
+                "children": []
+            }, {
+                "id": 4000173,
+                "name": "Sarolangun Kab.",
+                "type": "CITY",
+                "longitude": 102.69068,
+                "latitude": -2.26474,
+                "children": []
+            }, {
+                "id": 4000178,
+                "name": "Sungai Penuh Kota",
+                "type": "CITY",
+                "longitude": 101.41775,
+                "latitude": -2.06362,
+                "children": []
+            }, {
+                "id": 4000174,
+                "name": "Tanjung Jabung Barat Kab.",
+                "type": "CITY",
+                "longitude": 103.07987,
+                "latitude": -1.10081,
+                "children": []
+            }, {
+                "id": 4000176,
+                "name": "Tebo Kab.",
+                "type": "CITY",
+                "longitude": 102.34771,
+                "latitude": -1.26337,
+                "children": []
+            }]
+        }, {
+            "id": 2000009,
+            "name": "Jawa Barat",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000002,
+                "name": "Bandung Barat Kab.",
+                "type": "CITY",
+                "longitude": 107.45291,
+                "latitude": -6.90035,
+                "children": []
+            }, {
+                "id": 4000001,
+                "name": "Bandung Kab.",
+                "type": "CITY",
+                "longitude": 107.5569,
+                "latitude": -6.99934,
+                "children": []
+            }, {
+                "id": 4000018,
+                "name": "Bandung Kota",
+                "type": "CITY",
+                "longitude": 107.62118,
+                "latitude": -6.91776,
+                "children": []
+            }, {
+                "id": 4000019,
+                "name": "Banjar Kota",
+                "type": "CITY",
+                "longitude": 108.53466,
+                "latitude": -7.3701,
+                "children": []
+            }, {
+                "id": 4000003,
+                "name": "Bekasi Kab.",
+                "type": "CITY",
+                "longitude": 107.13955,
+                "latitude": -6.2194,
+                "children": []
+            }, {
+                "id": 4000020,
+                "name": "Bekasi Kota",
+                "type": "CITY",
+                "longitude": 106.97268,
+                "latitude": -6.23947,
+                "children": []
+            }, {
+                "id": 4000004,
+                "name": "Bogor Kab.",
+                "type": "CITY",
+                "longitude": 107.02443,
+                "latitude": -6.52253,
+                "children": []
+            }, {
+                "id": 4000021,
+                "name": "Bogor Kota",
+                "type": "CITY",
+                "longitude": 106.8015,
+                "latitude": -6.59826,
+                "children": []
+            }, {
+                "id": 4000005,
+                "name": "Ciamis Kab.",
+                "type": "CITY",
+                "longitude": 108.51955,
+                "latitude": -7.43022,
+                "children": []
+            }, {
+                "id": 4000006,
+                "name": "Cianjur Kab.",
+                "type": "CITY",
+                "longitude": 107.13068,
+                "latitude": -7.07508,
+                "children": []
+            }, {
+                "id": 4000022,
+                "name": "Cimahi Kota",
+                "type": "CITY",
+                "longitude": 107.54147,
+                "latitude": -6.8843,
+                "children": []
+            }, {
+                "id": 4000007,
+                "name": "Cirebon Kab.",
+                "type": "CITY",
+                "longitude": 108.5804,
+                "latitude": -6.75315,
+                "children": []
+            }, {
+                "id": 4000023,
+                "name": "Cirebon Kota",
+                "type": "CITY",
+                "longitude": 108.55112,
+                "latitude": -6.73179,
+                "children": []
+            }, {
+                "id": 4000024,
+                "name": "Depok Kota",
+                "type": "CITY",
+                "longitude": 106.79994,
+                "latitude": -6.40183,
+                "children": []
+            }, {
+                "id": 4000008,
+                "name": "Garut Kab.",
+                "type": "CITY",
+                "longitude": 107.78136,
+                "latitude": -7.38096,
+                "children": []
+            }, {
+                "id": 4000009,
+                "name": "Indramayu Kab.",
+                "type": "CITY",
+                "longitude": 108.32225,
+                "latitude": -6.37552,
+                "children": []
+            }, {
+                "id": 4000506,
+                "name": "Kab. Pangandaran",
+                "type": "CITY",
+                "longitude": 108.49883,
+                "latitude": -7.61506,
+                "children": []
+            }, {
+                "id": 4000499,
+                "name": "Karawang Kab.",
+                "type": "CITY",
+                "longitude": 107.31944,
+                "latitude": -6.30496,
+                "children": []
+            }, {
+                "id": 4000011,
+                "name": "Kuningan Kab.",
+                "type": "CITY",
+                "longitude": 108.58938,
+                "latitude": -6.98833,
+                "children": []
+            }, {
+                "id": 4000012,
+                "name": "Majalengka Kab.",
+                "type": "CITY",
+                "longitude": 108.21847,
+                "latitude": -6.81339,
+                "children": []
+            }, {
+                "id": 4000013,
+                "name": "Purwakarta Kab.",
+                "type": "CITY",
+                "longitude": 107.42334,
+                "latitude": -6.6444,
+                "children": []
+            }, {
+                "id": 4000014,
+                "name": "Subang Kab.",
+                "type": "CITY",
+                "longitude": 107.73396,
+                "latitude": -6.48729,
+                "children": []
+            }, {
+                "id": 4000015,
+                "name": "Sukabumi Kab.",
+                "type": "CITY",
+                "longitude": 106.9283,
+                "latitude": -6.92798,
+                "children": []
+            }, {
+                "id": 4000025,
+                "name": "Sukabumi Kota",
+                "type": "CITY",
+                "longitude": 106.92692,
+                "latitude": -6.92764,
+                "children": []
+            }, {
+                "id": 4000016,
+                "name": "Sumedang Kab.",
+                "type": "CITY",
+                "longitude": 107.95617,
+                "latitude": -6.77865,
+                "children": []
+            }, {
+                "id": 4000017,
+                "name": "Tasikmalaya Kab.",
+                "type": "CITY",
+                "longitude": 108.16959,
+                "latitude": -7.41404,
+                "children": []
+            }, {
+                "id": 4000026,
+                "name": "Tasikmalaya Kota",
+                "type": "CITY",
+                "longitude": 108.22554,
+                "latitude": -7.34976,
+                "children": []
+            }]
+        }, {
+            "id": 2000010,
+            "name": "Jawa Tengah",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000033,
+                "name": "Banjarnegara Kab.",
+                "type": "CITY",
+                "longitude": 109.63115,
+                "latitude": -7.35027,
+                "children": []
+            }, {
+                "id": 4000034,
+                "name": "Banyumas Kab.",
+                "type": "CITY",
+                "longitude": 109.16713,
+                "latitude": -7.45857,
+                "children": []
+            }, {
+                "id": 4000035,
+                "name": "Batang Kab.",
+                "type": "CITY",
+                "longitude": 109.85745,
+                "latitude": -7.03835,
+                "children": []
+            }, {
+                "id": 4000036,
+                "name": "Blora Kab.",
+                "type": "CITY",
+                "longitude": 111.3564,
+                "latitude": -7.13764,
+                "children": []
+            }, {
+                "id": 4000037,
+                "name": "Boyolali Kab.",
+                "type": "CITY",
+                "longitude": 110.59421,
+                "latitude": -7.52018,
+                "children": []
+            }, {
+                "id": 4000038,
+                "name": "Brebes Kab.",
+                "type": "CITY",
+                "longitude": 108.91461,
+                "latitude": -7.05055,
+                "children": []
+            }, {
+                "id": 4000039,
+                "name": "Cilacap Kab.",
+                "type": "CITY",
+                "longitude": 108.80165,
+                "latitude": -7.46182,
+                "children": []
+            }, {
+                "id": 4000040,
+                "name": "Demak Kab.",
+                "type": "CITY",
+                "longitude": 110.63325,
+                "latitude": -6.94157,
+                "children": []
+            }, {
+                "id": 4000041,
+                "name": "Grobogan Kab.",
+                "type": "CITY",
+                "longitude": 110.88804,
+                "latitude": -7.09842,
+                "children": []
+            }, {
+                "id": 4000042,
+                "name": "Jepara Kab.",
+                "type": "CITY",
+                "longitude": 110.79094,
+                "latitude": -6.60515,
+                "children": []
+            }, {
+                "id": 4000043,
+                "name": "Karanganyar Kab.",
+                "type": "CITY",
+                "longitude": 110.97302,
+                "latitude": -7.62043,
+                "children": []
+            }, {
+                "id": 4000044,
+                "name": "Kebumen Kab.",
+                "type": "CITY",
+                "longitude": 109.62077,
+                "latitude": -7.64775,
+                "children": []
+            }, {
+                "id": 4000045,
+                "name": "Kendal Kab.",
+                "type": "CITY",
+                "longitude": 110.14196,
+                "latitude": -7.0191,
+                "children": []
+            }, {
+                "id": 4000046,
+                "name": "Klaten Kab.",
+                "type": "CITY",
+                "longitude": 110.60799,
+                "latitude": -7.68355,
+                "children": []
+            }, {
+                "id": 4000047,
+                "name": "Kudus Kab.",
+                "type": "CITY",
+                "longitude": 110.84187,
+                "latitude": -6.80757,
+                "children": []
+            }, {
+                "id": 4000048,
+                "name": "Magelang Kab.",
+                "type": "CITY",
+                "longitude": 110.26169,
+                "latitude": -7.4965,
+                "children": []
+            }, {
+                "id": 4000062,
+                "name": "Magelang Kota",
+                "type": "CITY",
+                "longitude": 110.20281,
+                "latitude": -7.45706,
+                "children": []
+            }, {
+                "id": 4000049,
+                "name": "Pati Kab.",
+                "type": "CITY",
+                "longitude": 111.03118,
+                "latitude": -6.70747,
+                "children": []
+            }, {
+                "id": 4000050,
+                "name": "Pekalongan Kab.",
+                "type": "CITY",
+                "longitude": 109.67283,
+                "latitude": -7.04136,
+                "children": []
+            }, {
+                "id": 4000063,
+                "name": "Pekalongan Kota",
+                "type": "CITY",
+                "longitude": 109.66291,
+                "latitude": -6.89697,
+                "children": []
+            }, {
+                "id": 4000051,
+                "name": "Pemalang Kab.",
+                "type": "CITY",
+                "longitude": 109.39315,
+                "latitude": -7.01762,
+                "children": []
+            }, {
+                "id": 4000052,
+                "name": "Purbalingga Kab.",
+                "type": "CITY",
+                "longitude": 109.41997,
+                "latitude": -7.3417,
+                "children": []
+            }, {
+                "id": 4000053,
+                "name": "Purworejo Kab.",
+                "type": "CITY",
+                "longitude": 109.97653,
+                "latitude": -7.70933,
+                "children": []
+            }, {
+                "id": 4000054,
+                "name": "Rembang Kab.",
+                "type": "CITY",
+                "longitude": 111.47227,
+                "latitude": -6.7681,
+                "children": []
+            }, {
+                "id": 4000064,
+                "name": "Salatiga Kota",
+                "type": "CITY",
+                "longitude": 110.51257,
+                "latitude": -7.32485,
+                "children": []
+            }, {
+                "id": 4000055,
+                "name": "Semarang Kab.",
+                "type": "CITY",
+                "longitude": 110.46639,
+                "latitude": -7.2874,
+                "children": []
+            }, {
+                "id": 4000065,
+                "name": "Semarang Kota",
+                "type": "CITY",
+                "longitude": 110.43773,
+                "latitude": -7.00637,
+                "children": []
+            }, {
+                "id": 4000056,
+                "name": "Sragen Kab.",
+                "type": "CITY",
+                "longitude": 110.96549,
+                "latitude": -7.37954,
+                "children": []
+            }, {
+                "id": 4000057,
+                "name": "Sukoharjo Kab.",
+                "type": "CITY",
+                "longitude": 110.82994,
+                "latitude": -7.68391,
+                "children": []
+            }, {
+                "id": 4000066,
+                "name": "Surakarta Kota",
+                "type": "CITY",
+                "longitude": 110.82329,
+                "latitude": -7.56712,
+                "children": []
+            }, {
+                "id": 4000058,
+                "name": "Tegal Kab.",
+                "type": "CITY",
+                "longitude": 109.11965,
+                "latitude": -7.04462,
+                "children": []
+            }, {
+                "id": 4000067,
+                "name": "Tegal Kota",
+                "type": "CITY",
+                "longitude": 109.14194,
+                "latitude": -6.85316,
+                "children": []
+            }, {
+                "id": 4000059,
+                "name": "Temanggung Kab.",
+                "type": "CITY",
+                "longitude": 110.13728,
+                "latitude": -7.24019,
+                "children": []
+            }, {
+                "id": 4000060,
+                "name": "Wonogiri Kab.",
+                "type": "CITY",
+                "longitude": 111.04904,
+                "latitude": -7.95868,
+                "children": []
+            }, {
+                "id": 4000061,
+                "name": "Wonosobo Kab.",
+                "type": "CITY",
+                "longitude": 109.90468,
+                "latitude": -7.35855,
+                "children": []
+            }]
+        }, {
+            "id": 2000011,
+            "name": "Jawa Timur",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000179,
+                "name": "Bangkalan  Kab.",
+                "type": "CITY",
+                "longitude": 112.91403,
+                "latitude": -7.03805,
+                "children": []
+            }, {
+                "id": 4000180,
+                "name": "Banyuwangi  Kab.",
+                "type": "CITY",
+                "longitude": 114.36686,
+                "latitude": -8.16097,
+                "children": []
+            }, {
+                "id": 4000208,
+                "name": "Batu Kota",
+                "type": "CITY",
+                "longitude": 112.53329,
+                "latitude": -7.8835,
+                "children": []
+            }, {
+                "id": 4000181,
+                "name": "Blitar Kab.",
+                "type": "CITY",
+                "longitude": 112.14434,
+                "latitude": -8.10513,
+                "children": []
+            }, {
+                "id": 4000209,
+                "name": "Blitar Kota",
+                "type": "CITY",
+                "longitude": 112.14443,
+                "latitude": -8.10535,
+                "children": []
+            }, {
+                "id": 4000182,
+                "name": "Bojonegoro Kab.",
+                "type": "CITY",
+                "longitude": 111.88695,
+                "latitude": -7.15226,
+                "children": []
+            }, {
+                "id": 4000183,
+                "name": "Bondowoso Kab.",
+                "type": "CITY",
+                "longitude": 113.82138,
+                "latitude": -7.91891,
+                "children": []
+            }, {
+                "id": 4000184,
+                "name": "Gresik Kab.",
+                "type": "CITY",
+                "longitude": 112.65568,
+                "latitude": -7.16475,
+                "children": []
+            }, {
+                "id": 4000185,
+                "name": "Jember Kab.",
+                "type": "CITY",
+                "longitude": 113.70206,
+                "latitude": -8.16953,
+                "children": []
+            }, {
+                "id": 4000186,
+                "name": "Jombang  Kab.",
+                "type": "CITY",
+                "longitude": 112.28253,
+                "latitude": -7.57092,
+                "children": []
+            }, {
+                "id": 4000187,
+                "name": "Kediri  Kab.",
+                "type": "CITY",
+                "longitude": 112.02202,
+                "latitude": -7.84718,
+                "children": []
+            }, {
+                "id": 4000210,
+                "name": "Kediri Kota",
+                "type": "CITY",
+                "longitude": 112.01722,
+                "latitude": -7.84803,
+                "children": []
+            }, {
+                "id": 4000188,
+                "name": "Lamongan  Kab.",
+                "type": "CITY",
+                "longitude": 112.41522,
+                "latitude": -7.11554,
+                "children": []
+            }, {
+                "id": 4000189,
+                "name": "Lumajang Kab.",
+                "type": "CITY",
+                "longitude": 113.14357,
+                "latitude": -8.08996,
+                "children": []
+            }, {
+                "id": 4000190,
+                "name": "Madiun Kab.",
+                "type": "CITY",
+                "longitude": 111.52839,
+                "latitude": -7.63091,
+                "children": []
+            }, {
+                "id": 4000211,
+                "name": "Madiun Kota",
+                "type": "CITY",
+                "longitude": 111.52985,
+                "latitude": -7.63134,
+                "children": []
+            }, {
+                "id": 4000191,
+                "name": "Magetan Kab.",
+                "type": "CITY",
+                "longitude": 111.34861,
+                "latitude": -7.64463,
+                "children": []
+            }, {
+                "id": 4000192,
+                "name": "Malang Kab.",
+                "type": "CITY",
+                "longitude": 112.63865,
+                "latitude": -7.96708,
+                "children": []
+            }, {
+                "id": 4000212,
+                "name": "Malang Kota",
+                "type": "CITY",
+                "longitude": 112.63161,
+                "latitude": -7.96691,
+                "children": []
+            }, {
+                "id": 4000193,
+                "name": "Mojokerto Kab.",
+                "type": "CITY",
+                "longitude": 112.44375,
+                "latitude": -7.4933,
+                "children": []
+            }, {
+                "id": 4000213,
+                "name": "Mojokerto Kota",
+                "type": "CITY",
+                "longitude": 112.44129,
+                "latitude": -7.47081,
+                "children": []
+            }, {
+                "id": 4000194,
+                "name": "Nganjuk Kab.",
+                "type": "CITY",
+                "longitude": 111.89836,
+                "latitude": -7.60393,
+                "children": []
+            }, {
+                "id": 4000195,
+                "name": "Ngawi Kab.",
+                "type": "CITY",
+                "longitude": 111.42459,
+                "latitude": -7.40263,
+                "children": []
+            }, {
+                "id": 4000196,
+                "name": "Pacitan Kab.",
+                "type": "CITY",
+                "longitude": 111.10477,
+                "latitude": -8.18034,
+                "children": []
+            }, {
+                "id": 4000197,
+                "name": "Pamekasan Kab.",
+                "type": "CITY",
+                "longitude": 113.47453,
+                "latitude": -7.15361,
+                "children": []
+            }, {
+                "id": 4000198,
+                "name": "Pasuruan Kab.",
+                "type": "CITY",
+                "longitude": 112.89943,
+                "latitude": -7.64667,
+                "children": []
+            }, {
+                "id": 4000214,
+                "name": "Pasuruan Kota",
+                "type": "CITY",
+                "longitude": 112.89883,
+                "latitude": -7.64659,
+                "children": []
+            }, {
+                "id": 4000199,
+                "name": "Ponorogo Kab.",
+                "type": "CITY",
+                "longitude": 111.46622,
+                "latitude": -7.86668,
+                "children": []
+            }, {
+                "id": 4000200,
+                "name": "Probolinggo Kab.",
+                "type": "CITY",
+                "longitude": 113.20352,
+                "latitude": -7.77588,
+                "children": []
+            }, {
+                "id": 4000215,
+                "name": "Probolinggo Kota",
+                "type": "CITY",
+                "longitude": 113.20644,
+                "latitude": -7.77537,
+                "children": []
+            }, {
+                "id": 4000201,
+                "name": "Sampang Kab.",
+                "type": "CITY",
+                "longitude": 113.23518,
+                "latitude": -7.18218,
+                "children": []
+            }, {
+                "id": 4000202,
+                "name": "Sidoarjo  Kab.",
+                "type": "CITY",
+                "longitude": 112.72489,
+                "latitude": -7.44651,
+                "children": []
+            }, {
+                "id": 4000203,
+                "name": "Situbondo Kab.",
+                "type": "CITY",
+                "longitude": 113.98186,
+                "latitude": -7.70737,
+                "children": []
+            }, {
+                "id": 4000204,
+                "name": "Sumenep Kab.",
+                "type": "CITY",
+                "longitude": 113.85047,
+                "latitude": -7.01922,
+                "children": []
+            }, {
+                "id": 4000216,
+                "name": "Surabaya Kota",
+                "type": "CITY",
+                "longitude": 112.76472,
+                "latitude": -7.2691,
+                "children": []
+            }, {
+                "id": 4000205,
+                "name": "Trenggalek Kab.",
+                "type": "CITY",
+                "longitude": 111.73008,
+                "latitude": -8.04713,
+                "children": []
+            }, {
+                "id": 4000206,
+                "name": "Tuban Kab.",
+                "type": "CITY",
+                "longitude": 112.02079,
+                "latitude": -6.86292,
+                "children": []
+            }, {
+                "id": 4000207,
+                "name": "Tulungagung Kab.",
+                "type": "CITY",
+                "longitude": 111.91109,
+                "latitude": -8.04434,
+                "children": []
+            }]
+        }, {
+            "id": 2000012,
+            "name": "Kalimantan Barat",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000267,
+                "name": "Bengkayang Kab.",
+                "type": "CITY",
+                "longitude": 109.66431,
+                "latitude": 1.07016,
+                "children": []
+            }, {
+                "id": 4000268,
+                "name": "Kapuas Hulu Kab.",
+                "type": "CITY",
+                "longitude": 112.92423,
+                "latitude": 0.88089,
+                "children": []
+            }, {
+                "id": 4000269,
+                "name": "Kayong Utara Kab.",
+                "type": "CITY",
+                "longitude": 110.04497,
+                "latitude": -0.92259,
+                "children": []
+            }, {
+                "id": 4000270,
+                "name": "Ketapang Kab.",
+                "type": "CITY",
+                "longitude": 109.97182,
+                "latitude": -1.85785,
+                "children": []
+            }, {
+                "id": 4000271,
+                "name": "Kubu Raya Kab.",
+                "type": "CITY",
+                "longitude": 109.42205,
+                "latitude": -0.53048,
+                "children": []
+            }, {
+                "id": 4000272,
+                "name": "Landak Kab.",
+                "type": "CITY",
+                "longitude": 109.87679,
+                "latitude": 0.38625,
+                "children": []
+            }, {
+                "id": 4000273,
+                "name": "Melawi Kab.",
+                "type": "CITY",
+                "longitude": 111.73085,
+                "latitude": -0.38917,
+                "children": []
+            }, {
+                "id": 4000279,
+                "name": "Pontianak Kota",
+                "type": "CITY",
+                "longitude": 109.34202,
+                "latitude": -0.02548,
+                "children": []
+            }, {
+                "id": 4000275,
+                "name": "Sambas Kab.",
+                "type": "CITY",
+                "longitude": 109.30053,
+                "latitude": 1.34833,
+                "children": []
+            }, {
+                "id": 4000276,
+                "name": "Sanggau Kab.",
+                "type": "CITY",
+                "longitude": 110.50758,
+                "latitude": 0.16235,
+                "children": []
+            }, {
+                "id": 4000277,
+                "name": "Sekadau Kab.",
+                "type": "CITY",
+                "longitude": 110.88835,
+                "latitude": 0.01667,
+                "children": []
+            }, {
+                "id": 4000280,
+                "name": "Singkawang Kota",
+                "type": "CITY",
+                "longitude": 108.98746,
+                "latitude": 0.90582,
+                "children": []
+            }, {
+                "id": 4000278,
+                "name": "Sintang Kab.",
+                "type": "CITY",
+                "longitude": 111.49856,
+                "latitude": 0.05202,
+                "children": []
+            }]
+        }, {
+            "id": 2000013,
+            "name": "Kalimantan Selatan",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000254,
+                "name": "Balanngan Kab.",
+                "type": "CITY",
+                "longitude": 115.62861,
+                "latitude": -2.31644,
+                "children": []
+            }, {
+                "id": 4000255,
+                "name": "Banjar Kab.",
+                "type": "CITY",
+                "longitude": 114.86536,
+                "latitude": -3.3396,
+                "children": []
+            }, {
+                "id": 4000265,
+                "name": "Banjarbaru Kota",
+                "type": "CITY",
+                "longitude": 114.80864,
+                "latitude": -3.45692,
+                "children": []
+            }, {
+                "id": 4000266,
+                "name": "Banjarmasin Kota",
+                "type": "CITY",
+                "longitude": 114.59267,
+                "latitude": -3.31859,
+                "children": []
+            }, {
+                "id": 4000256,
+                "name": "Barito Kuala Kab.",
+                "type": "CITY",
+                "longitude": 114.66688,
+                "latitude": -3.06896,
+                "children": []
+            }, {
+                "id": 4000257,
+                "name": "Hulu Sungai Selatan Kab.",
+                "type": "CITY",
+                "longitude": 115.26474,
+                "latitude": -2.77531,
+                "children": []
+            }, {
+                "id": 4000260,
+                "name": "Kotabaru Kab.",
+                "type": "CITY",
+                "longitude": 115.97424,
+                "latitude": -2.92463,
+                "children": []
+            }, {
+                "id": 4000261,
+                "name": "Tabalong Kab.",
+                "type": "CITY",
+                "longitude": 115.42749,
+                "latitude": -2.24706,
+                "children": []
+            }, {
+                "id": 4000262,
+                "name": "Tanah Bumbu Kab.",
+                "type": "CITY",
+                "longitude": 115.94771,
+                "latitude": -3.48224,
+                "children": []
+            }, {
+                "id": 4000263,
+                "name": "Tanah Laut Kab.",
+                "type": "CITY",
+                "longitude": 114.75853,
+                "latitude": -3.77515,
+                "children": []
+            }, {
+                "id": 4000264,
+                "name": "Tapin  Kab.",
+                "type": "CITY",
+                "longitude": 115.00792,
+                "latitude": -2.91075,
+                "children": []
+            }]
+        }, {
+            "id": 2000014,
+            "name": "Kalimantan Tengah",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000226,
+                "name": "Barito Selatan Kab.",
+                "type": "CITY",
+                "longitude": 114.83763,
+                "latitude": -1.72585,
+                "children": []
+            }, {
+                "id": 4000227,
+                "name": "Barito Timur Kab.",
+                "type": "CITY",
+                "longitude": 115.18993,
+                "latitude": -2.01206,
+                "children": []
+            }, {
+                "id": 4000228,
+                "name": "Barito Utara Kab.",
+                "type": "CITY",
+                "longitude": 115.0915,
+                "latitude": -0.96062,
+                "children": []
+            }, {
+                "id": 4000229,
+                "name": "Gunung Mas Kab.",
+                "type": "CITY",
+                "longitude": 113.56234,
+                "latitude": -1.25324,
+                "children": []
+            }, {
+                "id": 4000230,
+                "name": "Kapuas Kab.",
+                "type": "CITY",
+                "longitude": 114.41593,
+                "latitude": -2.96462,
+                "children": []
+            }, {
+                "id": 4000231,
+                "name": "Katingan Kab.",
+                "type": "CITY",
+                "longitude": 113.4243,
+                "latitude": -1.87556,
+                "children": []
+            }, {
+                "id": 4000232,
+                "name": "Kotawaringin Barat Kab.",
+                "type": "CITY",
+                "longitude": 111.64833,
+                "latitude": -2.72062,
+                "children": []
+            }, {
+                "id": 4000234,
+                "name": "Lamandau Kab.",
+                "type": "CITY",
+                "longitude": 111.18442,
+                "latitude": -1.92619,
+                "children": []
+            }, {
+                "id": 4000235,
+                "name": "Murung Raya Kab.",
+                "type": "CITY",
+                "longitude": 114.56811,
+                "latitude": -0.63694,
+                "children": []
+            }, {
+                "id": 4000239,
+                "name": "Palangkaraya Kota",
+                "type": "CITY",
+                "longitude": 113.90201,
+                "latitude": -2.21754,
+                "children": []
+            }, {
+                "id": 4000236,
+                "name": "Pulang Pisau Kab.",
+                "type": "CITY",
+                "longitude": 114.26603,
+                "latitude": -2.757,
+                "children": []
+            }, {
+                "id": 4000238,
+                "name": "Seruyan Kab.",
+                "type": "CITY",
+                "longitude": 112.54908,
+                "latitude": -3.37814,
+                "children": []
+            }, {
+                "id": 4000237,
+                "name": "Sukamara Kab.",
+                "type": "CITY",
+                "longitude": 111.18264,
+                "latitude": -2.75918,
+                "children": []
+            }]
+        }, {
+            "id": 2000015,
+            "name": "Kalimantan Timur",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000250,
+                "name": "Balikpapan Kota",
+                "type": "CITY",
+                "longitude": 116.85461,
+                "latitude": -1.23818,
+                "children": []
+            }, {
+                "id": 4000240,
+                "name": "Berau Kab.",
+                "type": "CITY",
+                "longitude": 117.50054,
+                "latitude": 2.14716,
+                "children": []
+            }, {
+                "id": 4000251,
+                "name": "Bontang Kota",
+                "type": "CITY",
+                "longitude": 117.47703,
+                "latitude": 0.12099,
+                "children": []
+            }, {
+                "id": 4000507,
+                "name": "Kab. Mahakam Ulu",
+                "type": "CITY",
+                "longitude": 114.71429,
+                "latitude": 0.96167,
+                "children": []
+            }, {
+                "id": 4000242,
+                "name": "Kutai Barat Kab.",
+                "type": "CITY",
+                "longitude": 115.625,
+                "latitude": -0.16591,
+                "children": []
+            }, {
+                "id": 4000243,
+                "name": "Kutai Kartanegara Kab.",
+                "type": "CITY",
+                "longitude": 116.9893,
+                "latitude": -0.4164,
+                "children": []
+            }, {
+                "id": 4000244,
+                "name": "Kutai Timur Kab.",
+                "type": "CITY",
+                "longitude": 117.6033,
+                "latitude": 0.52072,
+                "children": []
+            }, {
+                "id": 4000247,
+                "name": "Paser Kab.",
+                "type": "CITY",
+                "longitude": 116.19059,
+                "latitude": -1.90556,
+                "children": []
+            }, {
+                "id": 4000248,
+                "name": "Penajam Paser Utara Kab.",
+                "type": "CITY",
+                "longitude": 116.72938,
+                "latitude": -1.30874,
+                "children": []
+            }, {
+                "id": 4000252,
+                "name": "Samarinda Kota",
+                "type": "CITY",
+                "longitude": 117.14366,
+                "latitude": -0.4946,
+                "children": []
+            }]
+        }, {
+            "id": 2000035,
+            "name": "Kalimantan Utara",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000241,
+                "name": "Bulungan Kab.",
+                "type": "CITY",
+                "longitude": 117.40385,
+                "latitude": 2.83668,
+                "children": []
+            }, {
+                "id": 4000245,
+                "name": "Malinau Kab.",
+                "type": "CITY",
+                "longitude": 116.62566,
+                "latitude": 3.64682,
+                "children": []
+            }, {
+                "id": 4000246,
+                "name": "Nunukan Kab.",
+                "type": "CITY",
+                "longitude": 117.67346,
+                "latitude": 4.12298,
+                "children": []
+            }, {
+                "id": 4000249,
+                "name": "Tana Tidung Kab.",
+                "type": "CITY",
+                "longitude": 117.0766,
+                "latitude": 3.55064,
+                "children": []
+            }, {
+                "id": 4000253,
+                "name": "Tarakan Kota",
+                "type": "CITY",
+                "longitude": 117.57787,
+                "latitude": 3.32739,
+                "children": []
+            }]
+        }, {
+            "id": 2000034,
+            "name": "Kepulauan Riau",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000406,
+                "name": "Batam Kota",
+                "type": "CITY",
+                "longitude": 104.03387,
+                "latitude": 1.0445,
+                "children": []
+            }, {
+                "id": 4000401,
+                "name": "Bintan Kab.",
+                "type": "CITY",
+                "longitude": 104.42512,
+                "latitude": 1.13835,
+                "children": []
+            }, {
+                "id": 4000402,
+                "name": "Karimun Kab.",
+                "type": "CITY",
+                "longitude": 103.43115,
+                "latitude": 0.99355,
+                "children": []
+            }, {
+                "id": 4000403,
+                "name": "Kepulauan Anambas Kab.",
+                "type": "CITY",
+                "longitude": 105.65348,
+                "latitude": 3.10572,
+                "children": []
+            }, {
+                "id": 4000404,
+                "name": "Lingga Kab.",
+                "type": "CITY",
+                "longitude": 104.42167,
+                "latitude": -0.45356,
+                "children": []
+            }, {
+                "id": 4000405,
+                "name": "Natuna Kab.",
+                "type": "CITY",
+                "longitude": 108.39048,
+                "latitude": 3.90527,
+                "children": []
+            }, {
+                "id": 4000407,
+                "name": "Tanjung Pinang Kota",
+                "type": "CITY",
+                "longitude": 104.46614,
+                "latitude": 0.91852,
+                "children": []
+            }]
+        }, {
+            "id": 2000016,
+            "name": "Lampung",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000382,
+                "name": "Bandar Lampung Kota",
+                "type": "CITY",
+                "longitude": 105.26765,
+                "latitude": -5.39542,
+                "children": []
+            }, {
+                "id": 4000508,
+                "name": "Kab. Pesisir Barat",
+                "type": "CITY",
+                "longitude": 104.12337,
+                "latitude": -5.29282,
+                "children": []
+            }, {
+                "id": 4000370,
+                "name": "Lampung Barat Kab.",
+                "type": "CITY",
+                "longitude": 104.17938,
+                "latitude": -5.0677,
+                "children": []
+            }, {
+                "id": 4000371,
+                "name": "Lampung Selatan Kab.",
+                "type": "CITY",
+                "longitude": 105.54684,
+                "latitude": -5.56831,
+                "children": []
+            }, {
+                "id": 4000372,
+                "name": "Lampung Tengah Kab.",
+                "type": "CITY",
+                "longitude": 104.96807,
+                "latitude": -5.23693,
+                "children": []
+            }, {
+                "id": 4000373,
+                "name": "Lampung Timur Kab.",
+                "type": "CITY",
+                "longitude": 105.67999,
+                "latitude": -5.11088,
+                "children": []
+            }, {
+                "id": 4000374,
+                "name": "Lampung Utara Kab.",
+                "type": "CITY",
+                "longitude": 104.75241,
+                "latitude": -4.81385,
+                "children": []
+            }, {
+                "id": 4000375,
+                "name": "Mesuji Kab.",
+                "type": "CITY",
+                "longitude": 105.33571,
+                "latitude": -3.98929,
+                "children": []
+            }, {
+                "id": 4000383,
+                "name": "Metro Kota",
+                "type": "CITY",
+                "longitude": 105.30741,
+                "latitude": -5.11809,
+                "children": []
+            }, {
+                "id": 4000376,
+                "name": "Pesawaran Kab.",
+                "type": "CITY",
+                "longitude": 105.09063,
+                "latitude": -5.37559,
+                "children": []
+            }, {
+                "id": 4000377,
+                "name": "Pringsewu Kab.",
+                "type": "CITY",
+                "longitude": 104.99217,
+                "latitude": -5.36428,
+                "children": []
+            }, {
+                "id": 4000378,
+                "name": "Tanggamus Kab.",
+                "type": "CITY",
+                "longitude": 104.75538,
+                "latitude": -5.31127,
+                "children": []
+            }, {
+                "id": 4000380,
+                "name": "Tulang Bawang Barat Kab.",
+                "type": "CITY",
+                "longitude": 105.07442,
+                "latitude": -4.53145,
+                "children": []
+            }, {
+                "id": 4000379,
+                "name": "Tulang Bawang Kab.",
+                "type": "CITY",
+                "longitude": 105.50055,
+                "latitude": -4.31766,
+                "children": []
+            }, {
+                "id": 4000381,
+                "name": "Way Kanan Kab.",
+                "type": "CITY",
+                "longitude": 104.56478,
+                "latitude": -4.49384,
+                "children": []
+            }]
+        }, {
+            "id": 2000017,
+            "name": "Maluku",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000479,
+                "name": "Ambon Kota",
+                "type": "CITY",
+                "longitude": 128.19063,
+                "latitude": -3.65474,
+                "children": []
+            }, {
+                "id": 4000480,
+                "name": "Buru Kab.",
+                "type": "CITY",
+                "longitude": 127.08577,
+                "latitude": -3.23306,
+                "children": []
+            }, {
+                "id": 4000481,
+                "name": "Buru Selatan Kab.",
+                "type": "CITY",
+                "longitude": 126.69918,
+                "latitude": -3.72661,
+                "children": []
+            }, {
+                "id": 4000482,
+                "name": "Kepulauan Aru Kab.",
+                "type": "CITY",
+                "longitude": 134.53498,
+                "latitude": -6.19506,
+                "children": []
+            }, {
+                "id": 4000483,
+                "name": "Maluku Barat Daya Kab.",
+                "type": "CITY",
+                "longitude": 127.79492,
+                "latitude": -8.15148,
+                "children": []
+            }, {
+                "id": 4000484,
+                "name": "Maluku Tengah Kab.",
+                "type": "CITY",
+                "longitude": 128.96185,
+                "latitude": -3.30621,
+                "children": []
+            }, {
+                "id": 4000486,
+                "name": "Maluku Tenggara Barat Kab.",
+                "type": "CITY",
+                "longitude": 131.31663,
+                "latitude": -7.96732,
+                "children": []
+            }, {
+                "id": 4000485,
+                "name": "Maluku Tenggara Kab.",
+                "type": "CITY",
+                "longitude": 132.73989,
+                "latitude": -5.64949,
+                "children": []
+            }, {
+                "id": 4000487,
+                "name": "Seram Bagian Barat Kab.",
+                "type": "CITY",
+                "longitude": 128.63777,
+                "latitude": -2.85538,
+                "children": []
+            }, {
+                "id": 4000488,
+                "name": "Seram Bagian Timur Kab.",
+                "type": "CITY",
+                "longitude": 130.22712,
+                "latitude": -3.42333,
+                "children": []
+            }, {
+                "id": 4000500,
+                "name": "Tual Kab.",
+                "type": "CITY",
+                "longitude": 132.74767,
+                "latitude": -5.64019,
+                "children": []
+            }]
+        }, {
+            "id": 2000018,
+            "name": "Maluku Utara",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000491,
+                "name": "Halmahera Barat Kab.",
+                "type": "CITY",
+                "longitude": 127.62406,
+                "latitude": 0.78014,
+                "children": []
+            }, {
+                "id": 4000492,
+                "name": "Halmahera Selatan Kab.",
+                "type": "CITY",
+                "longitude": 127.48517,
+                "latitude": -0.63683,
+                "children": []
+            }, {
+                "id": 4000493,
+                "name": "Halmahera Tengah Kab.",
+                "type": "CITY",
+                "longitude": 128.18334,
+                "latitude": 0.50054,
+                "children": []
+            }, {
+                "id": 4000494,
+                "name": "Halmahera Timur Kab.",
+                "type": "CITY",
+                "longitude": 128.28651,
+                "latitude": 0.68031,
+                "children": []
+            }, {
+                "id": 4000495,
+                "name": "Halmahera Utara Kab.",
+                "type": "CITY",
+                "longitude": 127.98837,
+                "latitude": 1.73184,
+                "children": []
+            }, {
+                "id": 4000509,
+                "name": "Kab. Pulau Taliabu",
+                "type": "CITY",
+                "longitude": 124.77408,
+                "latitude": -1.82683,
+                "children": []
+            }, {
+                "id": 4000496,
+                "name": "Kepuluan Sula Kab.",
+                "type": "CITY",
+                "longitude": 125.88188,
+                "latitude": -2.19982,
+                "children": []
+            }, {
+                "id": 4000497,
+                "name": "Pulau Morotai Kab.",
+                "type": "CITY",
+                "longitude": 128.40303,
+                "latitude": 2.36767,
+                "children": []
+            }, {
+                "id": 4000489,
+                "name": "Ternate Kota",
+                "type": "CITY",
+                "longitude": 127.36163,
+                "latitude": 0.79623,
+                "children": []
+            }, {
+                "id": 4000490,
+                "name": "Tidore Kepulauan Kota",
+                "type": "CITY",
+                "longitude": 127.68209,
+                "latitude": 0.50399,
+                "children": []
+            }]
+        }, {
+            "id": 2000019,
+            "name": "Nusa Tenggara Barat",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000431,
+                "name": "Bima Kab.",
+                "type": "CITY",
+                "longitude": 118.74952,
+                "latitude": -8.46167,
+                "children": []
+            }, {
+                "id": 4000430,
+                "name": "Bima Kota",
+                "type": "CITY",
+                "longitude": 118.74518,
+                "latitude": -8.46459,
+                "children": []
+            }, {
+                "id": 4000432,
+                "name": "Dompu Kab.",
+                "type": "CITY",
+                "longitude": 118.46539,
+                "latitude": -8.53955,
+                "children": []
+            }, {
+                "id": 4000433,
+                "name": "Lombok Barat Kab.",
+                "type": "CITY",
+                "longitude": 116.13723,
+                "latitude": -8.68238,
+                "children": []
+            }, {
+                "id": 4000434,
+                "name": "Lombok Tengah Kab.",
+                "type": "CITY",
+                "longitude": 116.26002,
+                "latitude": -8.66051,
+                "children": []
+            }, {
+                "id": 4000435,
+                "name": "Lombok Timur Kab.",
+                "type": "CITY",
+                "longitude": 116.42824,
+                "latitude": -8.61042,
+                "children": []
+            }, {
+                "id": 4000436,
+                "name": "Lombok Utara Kab.",
+                "type": "CITY",
+                "longitude": 116.17979,
+                "latitude": -8.34543,
+                "children": []
+            }, {
+                "id": 4000429,
+                "name": "Mataram Kota",
+                "type": "CITY",
+                "longitude": 116.10124,
+                "latitude": -8.57735,
+                "children": []
+            }, {
+                "id": 4000438,
+                "name": "Sumbawa Barat Kab.",
+                "type": "CITY",
+                "longitude": 116.88917,
+                "latitude": -8.92631,
+                "children": []
+            }, {
+                "id": 4000437,
+                "name": "Sumbawa Kab.",
+                "type": "CITY",
+                "longitude": 118.11848,
+                "latitude": -8.74377,
+                "children": []
+            }]
+        }, {
+            "id": 2000020,
+            "name": "Nusa Tenggara Timur",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000415,
+                "name": "Alor Kab.",
+                "type": "CITY",
+                "longitude": 124.51799,
+                "latitude": -8.21388,
+                "children": []
+            }, {
+                "id": 4000416,
+                "name": "Belu Kab.",
+                "type": "CITY",
+                "longitude": 124.90459,
+                "latitude": -9.15144,
+                "children": []
+            }, {
+                "id": 4000412,
+                "name": "Ende Kab.",
+                "type": "CITY",
+                "longitude": 121.71783,
+                "latitude": -8.67757,
+                "children": []
+            }, {
+                "id": 4000414,
+                "name": "Flores Timur Kab.",
+                "type": "CITY",
+                "longitude": 123.00236,
+                "latitude": -8.32532,
+                "children": []
+            }, {
+                "id": 4000510,
+                "name": "Kab. Malaka",
+                "type": "CITY",
+                "longitude": 124.90655,
+                "latitude": -9.53086,
+                "children": []
+            }, {
+                "id": 4000410,
+                "name": "Kupang Kab.",
+                "type": "CITY",
+                "longitude": 123.58331,
+                "latitude": -10.183,
+                "children": []
+            }, {
+                "id": 4000411,
+                "name": "Kupang Kota",
+                "type": "CITY",
+                "longitude": 123.60356,
+                "latitude": -10.17664,
+                "children": []
+            }, {
+                "id": 4000428,
+                "name": "Lembata Kab.",
+                "type": "CITY",
+                "longitude": 123.39998,
+                "latitude": -8.37346,
+                "children": []
+            }, {
+                "id": 4000426,
+                "name": "Manggarai  Kab.",
+                "type": "CITY",
+                "longitude": 120.46857,
+                "latitude": -8.61576,
+                "children": []
+            }, {
+                "id": 4000425,
+                "name": "Manggarai Barat Kab.",
+                "type": "CITY",
+                "longitude": 120.0677,
+                "latitude": -8.67046,
+                "children": []
+            }, {
+                "id": 4000427,
+                "name": "Manggarai Timur Kab.",
+                "type": "CITY",
+                "longitude": 120.60731,
+                "latitude": -8.75641,
+                "children": []
+            }, {
+                "id": 4000409,
+                "name": "Nagekeo Kab.",
+                "type": "CITY",
+                "longitude": 121.28158,
+                "latitude": -8.57049,
+                "children": []
+            }, {
+                "id": 4000408,
+                "name": "Ngada Kab.",
+                "type": "CITY",
+                "longitude": 120.99042,
+                "latitude": -8.7423,
+                "children": []
+            }, {
+                "id": 4000419,
+                "name": "Rote Ndao Kab.",
+                "type": "CITY",
+                "longitude": 123.11035,
+                "latitude": -10.68761,
+                "children": []
+            }, {
+                "id": 4000420,
+                "name": "Sabu Raijua Kab.",
+                "type": "CITY",
+                "longitude": 121.83021,
+                "latitude": -10.50292,
+                "children": []
+            }, {
+                "id": 4000413,
+                "name": "Sikka Kab.",
+                "type": "CITY",
+                "longitude": 122.20849,
+                "latitude": -8.61696,
+                "children": []
+            }, {
+                "id": 4000421,
+                "name": "Sumba Barat Daya Kab.",
+                "type": "CITY",
+                "longitude": 119.14422,
+                "latitude": -9.53992,
+                "children": []
+            }, {
+                "id": 4000422,
+                "name": "Sumba Barat Kab.",
+                "type": "CITY",
+                "longitude": 119.42058,
+                "latitude": -9.48678,
+                "children": []
+            }, {
+                "id": 4000423,
+                "name": "Sumba Tengah Kab.",
+                "type": "CITY",
+                "longitude": 119.69775,
+                "latitude": -9.48882,
+                "children": []
+            }, {
+                "id": 4000424,
+                "name": "Sumba Timur Kab.",
+                "type": "CITY",
+                "longitude": 120.26594,
+                "latitude": -9.65868,
+                "children": []
+            }, {
+                "id": 4000418,
+                "name": "Timor Tengah Selatan Kab.",
+                "type": "CITY",
+                "longitude": 124.2667,
+                "latitude": -9.85134,
+                "children": []
+            }, {
+                "id": 4000417,
+                "name": "Timor Tengah Utara Kab.",
+                "type": "CITY",
+                "longitude": 124.59855,
+                "latitude": -9.44975,
+                "children": []
+            }]
+        }, {
+            "id": 2000022,
+            "name": "Papua",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000440,
+                "name": "Asmat Kab.",
+                "type": "CITY",
+                "longitude": 138.87679,
+                "latitude": -4.96698,
+                "children": []
+            }, {
+                "id": 4000441,
+                "name": "Biak Numfor Kab.",
+                "type": "CITY",
+                "longitude": 135.97896,
+                "latitude": -1.03749,
+                "children": []
+            }, {
+                "id": 4000442,
+                "name": "Boven Digoel Kab.",
+                "type": "CITY",
+                "longitude": 140.33854,
+                "latitude": -5.73806,
+                "children": []
+            }, {
+                "id": 4000443,
+                "name": "Deiyai Kab.",
+                "type": "CITY",
+                "longitude": 136.43768,
+                "latitude": -4.09748,
+                "children": []
+            }, {
+                "id": 4000444,
+                "name": "Dogiyai Kab.",
+                "type": "CITY",
+                "longitude": 135.9618,
+                "latitude": -4.01609,
+                "children": []
+            }, {
+                "id": 4000445,
+                "name": "Intan Jaya Kab.",
+                "type": "CITY",
+                "longitude": 136.74936,
+                "latitude": -3.50041,
+                "children": []
+            }, {
+                "id": 4000446,
+                "name": "Jayapura Kab.",
+                "type": "CITY",
+                "longitude": 139.85473,
+                "latitude": -2.98792,
+                "children": []
+            }, {
+                "id": 4000439,
+                "name": "Jayapura Kota",
+                "type": "CITY",
+                "longitude": 140.66798,
+                "latitude": -2.59206,
+                "children": []
+            }, {
+                "id": 4000447,
+                "name": "Jayawijaya Kab.",
+                "type": "CITY",
+                "longitude": 138.94937,
+                "latitude": -4.09745,
+                "children": []
+            }, {
+                "id": 4000448,
+                "name": "Keerom Kab.",
+                "type": "CITY",
+                "longitude": 140.77274,
+                "latitude": -2.90634,
+                "children": []
+            }, {
+                "id": 4000449,
+                "name": "Lanny Jaya Kab.",
+                "type": "CITY",
+                "longitude": 138.3144,
+                "latitude": -3.9723,
+                "children": []
+            }, {
+                "id": 4000450,
+                "name": "Mamberamo Raya Kab.",
+                "type": "CITY",
+                "longitude": 137.76833,
+                "latitude": -2.52268,
+                "children": []
+            }, {
+                "id": 4000451,
+                "name": "Mamberamo Tengah Kab.",
+                "type": "CITY",
+                "longitude": 138.3169,
+                "latitude": -2.36902,
+                "children": []
+            }, {
+                "id": 4000452,
+                "name": "Mappi Kab.",
+                "type": "CITY",
+                "longitude": 139.38636,
+                "latitude": -6.27589,
+                "children": []
+            }, {
+                "id": 4000453,
+                "name": "Merauke Kab.",
+                "type": "CITY",
+                "longitude": 140.55491,
+                "latitude": -8.48482,
+                "children": []
+            }, {
+                "id": 4000454,
+                "name": "Mimika Kab.",
+                "type": "CITY",
+                "longitude": 136.49214,
+                "latitude": -4.72237,
+                "children": []
+            }, {
+                "id": 4000455,
+                "name": "Nabire Kab.",
+                "type": "CITY",
+                "longitude": 135.50723,
+                "latitude": -3.36876,
+                "children": []
+            }, {
+                "id": 4000456,
+                "name": "Nduga Kab.",
+                "type": "CITY",
+                "longitude": 138.23387,
+                "latitude": -4.4005,
+                "children": []
+            }, {
+                "id": 4000457,
+                "name": "Paniai Kab.",
+                "type": "CITY",
+                "longitude": 136.35431,
+                "latitude": -3.78242,
+                "children": []
+            }, {
+                "id": 4000458,
+                "name": "Pengunungan Bintang Kab.",
+                "type": "CITY",
+                "longitude": 140.51508,
+                "latitude": -4.55898,
+                "children": []
+            }, {
+                "id": 4000460,
+                "name": "Puncak Jaya Kab.",
+                "type": "CITY",
+                "longitude": 137.84273,
+                "latitude": -3.44679,
+                "children": []
+            }, {
+                "id": 4000459,
+                "name": "Puncak Kab.",
+                "type": "CITY",
+                "longitude": 137.60338,
+                "latitude": -3.79809,
+                "children": []
+            }, {
+                "id": 4000461,
+                "name": "Sarmi Kab.",
+                "type": "CITY",
+                "longitude": 139.19822,
+                "latitude": -2.46114,
+                "children": []
+            }, {
+                "id": 4000462,
+                "name": "Supiori Kab.",
+                "type": "CITY",
+                "longitude": 135.5753,
+                "latitude": -0.71525,
+                "children": []
+            }, {
+                "id": 4000463,
+                "name": "Tolikara Kab.",
+                "type": "CITY",
+                "longitude": 138.48839,
+                "latitude": -3.67081,
+                "children": []
+            }, {
+                "id": 4000464,
+                "name": "Waropen Kab.",
+                "type": "CITY",
+                "longitude": 136.67075,
+                "latitude": -2.84335,
+                "children": []
+            }, {
+                "id": 4000465,
+                "name": "Yahukimo Kab.",
+                "type": "CITY",
+                "longitude": 139.51845,
+                "latitude": -4.49302,
+                "children": []
+            }, {
+                "id": 4000467,
+                "name": "Yalimo Kab.",
+                "type": "CITY",
+                "longitude": 139.44359,
+                "latitude": -3.78371,
+                "children": []
+            }, {
+                "id": 4000466,
+                "name": "Yapen Waropen Kab.",
+                "type": "CITY",
+                "longitude": 136.23873,
+                "latitude": -1.86792,
+                "children": []
+            }]
+        }, {
+            "id": 2000021,
+            "name": "Papua Barat",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000469,
+                "name": "Fakfak Kab.",
+                "type": "CITY",
+                "longitude": 132.26642,
+                "latitude": -2.88526,
+                "children": []
+            }, {
+                "id": 4000511,
+                "name": "Kab. Pegunungan Arfak",
+                "type": "CITY",
+                "longitude": 133.71425,
+                "latitude": -1.15546,
+                "children": []
+            }, {
+                "id": 4000470,
+                "name": "Kaimana Kab.",
+                "type": "CITY",
+                "longitude": 134.01703,
+                "latitude": -3.58573,
+                "children": []
+            }, {
+                "id": 4000471,
+                "name": "Manokwari Kab.",
+                "type": "CITY",
+                "longitude": 134.04056,
+                "latitude": -0.89948,
+                "children": []
+            }, {
+                "id": 4000472,
+                "name": "Maybrat Kab.",
+                "type": "CITY",
+                "longitude": 132.3151,
+                "latitude": -1.2971,
+                "children": []
+            }, {
+                "id": 4000473,
+                "name": "Raja Ampat Kab.",
+                "type": "CITY",
+                "longitude": 130.51935,
+                "latitude": -0.23019,
+                "children": []
+            }, {
+                "id": 4000474,
+                "name": "Sorong Kab.",
+                "type": "CITY",
+                "longitude": 131.2774,
+                "latitude": -0.88279,
+                "children": []
+            }, {
+                "id": 4000468,
+                "name": "Sorong Kota",
+                "type": "CITY",
+                "longitude": 131.29508,
+                "latitude": -0.88142,
+                "children": []
+            }, {
+                "id": 4000475,
+                "name": "Sorong Selatan Kab.",
+                "type": "CITY",
+                "longitude": 132.01783,
+                "latitude": -1.44929,
+                "children": []
+            }, {
+                "id": 4000476,
+                "name": "Tambrauw Kab.",
+                "type": "CITY",
+                "longitude": 132.20669,
+                "latitude": -0.49371,
+                "children": []
+            }, {
+                "id": 4000477,
+                "name": "Teluk Bintuni Kab.",
+                "type": "CITY",
+                "longitude": 132.74569,
+                "latitude": -1.31529,
+                "children": []
+            }, {
+                "id": 4000478,
+                "name": "Teluk Wondama Kab.",
+                "type": "CITY",
+                "longitude": 134.05861,
+                "latitude": -1.90923,
+                "children": []
+            }]
+        }, {
+            "id": 2000024,
+            "name": "Riau",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000156,
+                "name": "Bengkalis Kab.",
+                "type": "CITY",
+                "longitude": 102.18666,
+                "latitude": 1.48869,
+                "children": []
+            }, {
+                "id": 4000166,
+                "name": "Dumai Kota",
+                "type": "CITY",
+                "longitude": 101.44234,
+                "latitude": 1.67837,
+                "children": []
+            }, {
+                "id": 4000157,
+                "name": "Indragiri Hilir Kab.",
+                "type": "CITY",
+                "longitude": 102.99717,
+                "latitude": -0.04332,
+                "children": []
+            }, {
+                "id": 4000158,
+                "name": "Indragiri Hulu Kab.",
+                "type": "CITY",
+                "longitude": 102.26133,
+                "latitude": -0.73422,
+                "children": []
+            }, {
+                "id": 4000159,
+                "name": "Kampar Kab.",
+                "type": "CITY",
+                "longitude": 101.16277,
+                "latitude": 0.22694,
+                "children": []
+            }, {
+                "id": 4000160,
+                "name": "Kepulauan Meranti Kab.",
+                "type": "CITY",
+                "longitude": 102.66651,
+                "latitude": 0.92301,
+                "children": []
+            }, {
+                "id": 4000161,
+                "name": "Kuantan Singingi Kab.",
+                "type": "CITY",
+                "longitude": 101.52031,
+                "latitude": -0.39217,
+                "children": []
+            }, {
+                "id": 4000167,
+                "name": "Pekanbaru Kota",
+                "type": "CITY",
+                "longitude": 101.44805,
+                "latitude": 0.52257,
+                "children": []
+            }, {
+                "id": 4000162,
+                "name": "Pelalawan Kab.",
+                "type": "CITY",
+                "longitude": 102.24866,
+                "latitude": 0.14756,
+                "children": []
+            }, {
+                "id": 4000164,
+                "name": "Rokan Hilir Kab.",
+                "type": "CITY",
+                "longitude": 100.79415,
+                "latitude": 1.71934,
+                "children": []
+            }, {
+                "id": 4000163,
+                "name": "Rokan Hulu Kab.",
+                "type": "CITY",
+                "longitude": 100.45188,
+                "latitude": 1.12115,
+                "children": []
+            }, {
+                "id": 4000165,
+                "name": "Siak Kab.",
+                "type": "CITY",
+                "longitude": 101.93475,
+                "latitude": 0.84889,
+                "children": []
+            }]
+        }, {
+            "id": 2000023,
+            "name": "Sulawesi Barat",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000512,
+                "name": "Kab. Mamuju Tengah",
+                "type": "CITY",
+                "longitude": 119.51077,
+                "latitude": -1.93541,
+                "children": []
+            }, {
+                "id": 4000281,
+                "name": "Majene Kab.",
+                "type": "CITY",
+                "longitude": 118.97313,
+                "latitude": -3.53093,
+                "children": []
+            }, {
+                "id": 4000282,
+                "name": "Mamasa Kab.",
+                "type": "CITY",
+                "longitude": 119.36834,
+                "latitude": -2.96054,
+                "children": []
+            }, {
+                "id": 4000283,
+                "name": "Mamuju Kab.",
+                "type": "CITY",
+                "longitude": 118.92949,
+                "latitude": -2.72901,
+                "children": []
+            }, {
+                "id": 4000284,
+                "name": "Mamuju Utara Kab.",
+                "type": "CITY",
+                "longitude": 119.50464,
+                "latitude": -1.57296,
+                "children": []
+            }, {
+                "id": 4000285,
+                "name": "Polewali Mandar Kab.",
+                "type": "CITY",
+                "longitude": 119.13568,
+                "latitude": -3.34102,
+                "children": []
+            }]
+        }, {
+            "id": 2000025,
+            "name": "Sulawesi Selatan",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000286,
+                "name": "Bantaeng Kab.",
+                "type": "CITY",
+                "longitude": 120.02029,
+                "latitude": -5.51628,
+                "children": []
+            }, {
+                "id": 4000287,
+                "name": "Barru Kab.",
+                "type": "CITY",
+                "longitude": 119.67386,
+                "latitude": -4.41585,
+                "children": []
+            }, {
+                "id": 4000288,
+                "name": "Bone Kab.",
+                "type": "CITY",
+                "longitude": 120.30746,
+                "latitude": -4.54001,
+                "children": []
+            }, {
+                "id": 4000289,
+                "name": "Bulukumba Kab.",
+                "type": "CITY",
+                "longitude": 120.19444,
+                "latitude": -5.53139,
+                "children": []
+            }, {
+                "id": 4000290,
+                "name": "Enrekang Kab.",
+                "type": "CITY",
+                "longitude": 119.76573,
+                "latitude": -3.5519,
+                "children": []
+            }, {
+                "id": 4000291,
+                "name": "Gowa Kab.",
+                "type": "CITY",
+                "longitude": 119.9482,
+                "latitude": -5.1936,
+                "children": []
+            }, {
+                "id": 4000292,
+                "name": "Jenepronto Kab.",
+                "type": "CITY",
+                "longitude": 119.82371,
+                "latitude": -5.55516,
+                "children": []
+            }, {
+                "id": 4000293,
+                "name": "Kepulauan Selayar Kab.",
+                "type": "CITY",
+                "longitude": 120.46464,
+                "latitude": -6.11638,
+                "children": []
+            }, {
+                "id": 4000294,
+                "name": "Luwu Kab.",
+                "type": "CITY",
+                "longitude": 120.3663,
+                "latitude": -3.39597,
+                "children": []
+            }, {
+                "id": 4000295,
+                "name": "Luwu Timur Kab.",
+                "type": "CITY",
+                "longitude": 121.08071,
+                "latitude": -2.58322,
+                "children": []
+            }, {
+                "id": 4000296,
+                "name": "Luwu Utara Kab.",
+                "type": "CITY",
+                "longitude": 120.33809,
+                "latitude": -2.55036,
+                "children": []
+            }, {
+                "id": 4000307,
+                "name": "Makassar Kota",
+                "type": "CITY",
+                "longitude": 119.43586,
+                "latitude": -5.14601,
+                "children": []
+            }, {
+                "id": 4000297,
+                "name": "Maros Kab.",
+                "type": "CITY",
+                "longitude": 119.57829,
+                "latitude": -4.94663,
+                "children": []
+            }, {
+                "id": 4000308,
+                "name": "Palopo Kota",
+                "type": "CITY",
+                "longitude": 120.20222,
+                "latitude": -3.01044,
+                "children": []
+            }, {
+                "id": 4000298,
+                "name": "Pangkajene dan Kepulauan Kab.",
+                "type": "CITY",
+                "longitude": 119.58604,
+                "latitude": -4.87256,
+                "children": []
+            }, {
+                "id": 4000309,
+                "name": "Pare-Pare Kota",
+                "type": "CITY",
+                "longitude": 119.62948,
+                "latitude": -4.00997,
+                "children": []
+            }, {
+                "id": 4000299,
+                "name": "Pinrang Kab.",
+                "type": "CITY",
+                "longitude": 119.64779,
+                "latitude": -3.80657,
+                "children": []
+            }, {
+                "id": 4000300,
+                "name": "Sidenreng Rappang Kab.",
+                "type": "CITY",
+                "longitude": 119.79842,
+                "latitude": -3.92835,
+                "children": []
+            }, {
+                "id": 4000301,
+                "name": "Sinjai Kab.",
+                "type": "CITY",
+                "longitude": 120.23513,
+                "latitude": -5.11993,
+                "children": []
+            }, {
+                "id": 4000302,
+                "name": "Soppeng Kab.",
+                "type": "CITY",
+                "longitude": 119.8979,
+                "latitude": -4.36683,
+                "children": []
+            }, {
+                "id": 4000303,
+                "name": "Takalar Kab.",
+                "type": "CITY",
+                "longitude": 119.43814,
+                "latitude": -5.42961,
+                "children": []
+            }, {
+                "id": 4000304,
+                "name": "Tana Toraja Kab.",
+                "type": "CITY",
+                "longitude": 119.85375,
+                "latitude": -3.10957,
+                "children": []
+            }, {
+                "id": 4000305,
+                "name": "Toraja Utara Kab.",
+                "type": "CITY",
+                "longitude": 119.8943,
+                "latitude": -2.9769,
+                "children": []
+            }, {
+                "id": 4000306,
+                "name": "Wajo Kab.",
+                "type": "CITY",
+                "longitude": 120.26122,
+                "latitude": -3.95392,
+                "children": []
+            }]
+        }, {
+            "id": 2000026,
+            "name": "Sulawesi Tengah",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000310,
+                "name": "Banggai Kab.",
+                "type": "CITY",
+                "longitude": 122.61789,
+                "latitude": -0.94852,
+                "children": []
+            }, {
+                "id": 4000311,
+                "name": "Banggai Kepulauan Kab.",
+                "type": "CITY",
+                "longitude": 123.29605,
+                "latitude": -1.31098,
+                "children": []
+            }, {
+                "id": 4000312,
+                "name": "Buol Kab.",
+                "type": "CITY",
+                "longitude": 121.42495,
+                "latitude": 1.17245,
+                "children": []
+            }, {
+                "id": 4000313,
+                "name": "Donggala Kab.",
+                "type": "CITY",
+                "longitude": 119.8352,
+                "latitude": -0.42307,
+                "children": []
+            }, {
+                "id": 4000513,
+                "name": "Kab. Banggai Laut",
+                "type": "CITY",
+                "longitude": 123.55041,
+                "latitude": -1.67345,
+                "children": []
+            }, {
+                "id": 4000314,
+                "name": "Morowali Kab.",
+                "type": "CITY",
+                "longitude": 121.93669,
+                "latitude": -2.48006,
+                "children": []
+            }, {
+                "id": 4000320,
+                "name": "Palu Kota",
+                "type": "CITY",
+                "longitude": 119.87946,
+                "latitude": -0.90073,
+                "children": []
+            }, {
+                "id": 4000315,
+                "name": "Parigi Moutong Kab.",
+                "type": "CITY",
+                "longitude": 120.91781,
+                "latitude": 0.46725,
+                "children": []
+            }, {
+                "id": 4000316,
+                "name": "Poso Kab.",
+                "type": "CITY",
+                "longitude": 120.75786,
+                "latitude": -1.38426,
+                "children": []
+            }, {
+                "id": 4000319,
+                "name": "Sigi Kab.",
+                "type": "CITY",
+                "longitude": 119.92607,
+                "latitude": -1.00126,
+                "children": []
+            }, {
+                "id": 4000317,
+                "name": "Tojo Una-una Kab.",
+                "type": "CITY",
+                "longitude": 121.45386,
+                "latitude": -1.35089,
+                "children": []
+            }, {
+                "id": 4000318,
+                "name": "Toli-Toli Kab.",
+                "type": "CITY",
+                "longitude": 120.77694,
+                "latitude": 0.87996,
+                "children": []
+            }]
+        }, {
+            "id": 2000027,
+            "name": "Sulawesi Tenggara",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000331,
+                "name": "Bau-Bau Kota",
+                "type": "CITY",
+                "longitude": 122.59729,
+                "latitude": -5.46987,
+                "children": []
+            }, {
+                "id": 4000321,
+                "name": "Bombana Kab.",
+                "type": "CITY",
+                "longitude": 121.89292,
+                "latitude": -4.6505,
+                "children": []
+            }, {
+                "id": 4000322,
+                "name": "Buton Kab.",
+                "type": "CITY",
+                "longitude": 122.60829,
+                "latitude": -5.45724,
+                "children": []
+            }, {
+                "id": 4000323,
+                "name": "Buton Utara Kab.",
+                "type": "CITY",
+                "longitude": 123.18389,
+                "latitude": -4.77998,
+                "children": []
+            }, {
+                "id": 4000514,
+                "name": "Kab. Kolaka Timur",
+                "type": "CITY",
+                "longitude": 121.9018,
+                "latitude": -4.22792,
+                "children": []
+            }, {
+                "id": 4000515,
+                "name": "Kab. Konawe Kepulauan",
+                "type": "CITY",
+                "longitude": 123.1239,
+                "latitude": -4.13615,
+                "children": []
+            }, {
+                "id": 4000332,
+                "name": "Kendari Kota",
+                "type": "CITY",
+                "longitude": 122.51438,
+                "latitude": -3.99635,
+                "children": []
+            }, {
+                "id": 4000324,
+                "name": "Kolaka Kab.",
+                "type": "CITY",
+                "longitude": 121.61666,
+                "latitude": -4.06158,
+                "children": []
+            }, {
+                "id": 4000325,
+                "name": "Kolaka Utara Kab.",
+                "type": "CITY",
+                "longitude": 121.17018,
+                "latitude": -3.11225,
+                "children": []
+            }, {
+                "id": 4000326,
+                "name": "Konawe Kab.",
+                "type": "CITY",
+                "longitude": 122.04119,
+                "latitude": -3.85764,
+                "children": []
+            }, {
+                "id": 4000327,
+                "name": "Konawe Selatan Kab.",
+                "type": "CITY",
+                "longitude": 122.10728,
+                "latitude": -4.38324,
+                "children": []
+            }, {
+                "id": 4000328,
+                "name": "Konawe Utara Kab.",
+                "type": "CITY",
+                "longitude": 122.13908,
+                "latitude": -3.54409,
+                "children": []
+            }, {
+                "id": 4000329,
+                "name": "Muna Kab.",
+                "type": "CITY",
+                "longitude": 122.71872,
+                "latitude": -4.79727,
+                "children": []
+            }, {
+                "id": 4000330,
+                "name": "Wakatobi Kab.",
+                "type": "CITY",
+                "longitude": 123.55034,
+                "latitude": -5.34193,
+                "children": []
+            }]
+        }, {
+            "id": 2000028,
+            "name": "Sulawesi Utara",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000345,
+                "name": "Bitung Kota",
+                "type": "CITY",
+                "longitude": 125.12124,
+                "latitude": 1.44089,
+                "children": []
+            }, {
+                "id": 4000333,
+                "name": "Bolaang Mongondow Kab.",
+                "type": "CITY",
+                "longitude": 124.11276,
+                "latitude": 0.69411,
+                "children": []
+            }, {
+                "id": 4000334,
+                "name": "Bolaang Mongondow Selatan Kab.",
+                "type": "CITY",
+                "longitude": 123.84092,
+                "latitude": 0.40513,
+                "children": []
+            }, {
+                "id": 4000335,
+                "name": "Bolaang Mongondow Timur Kab.",
+                "type": "CITY",
+                "longitude": 124.46691,
+                "latitude": 0.71771,
+                "children": []
+            }, {
+                "id": 4000336,
+                "name": "Bolaang Mongondow Utara Kab.",
+                "type": "CITY",
+                "longitude": 123.26303,
+                "latitude": 0.9082,
+                "children": []
+            }, {
+                "id": 4000337,
+                "name": "Kepulauan Sangihe Kab.",
+                "type": "CITY",
+                "longitude": 125.50964,
+                "latitude": 3.60831,
+                "children": []
+            }, {
+                "id": 4000338,
+                "name": "Kepulauan Siau Tagulandang Biaro Kab.",
+                "type": "CITY",
+                "longitude": 125.4122,
+                "latitude": 2.34626,
+                "children": []
+            }, {
+                "id": 4000339,
+                "name": "Kepulauan Talaud Kab.",
+                "type": "CITY",
+                "longitude": 126.82166,
+                "latitude": 4.45714,
+                "children": []
+            }, {
+                "id": 4000346,
+                "name": "Kotamobagu Kota",
+                "type": "CITY",
+                "longitude": 124.31982,
+                "latitude": 0.72415,
+                "children": []
+            }, {
+                "id": 4000347,
+                "name": "Manado Kota",
+                "type": "CITY",
+                "longitude": 124.84116,
+                "latitude": 1.4754,
+                "children": []
+            }, {
+                "id": 4000340,
+                "name": "Minahasa Kab.",
+                "type": "CITY",
+                "longitude": 124.91037,
+                "latitude": 1.31873,
+                "children": []
+            }, {
+                "id": 4000341,
+                "name": "Minahasa Selatan Kab.",
+                "type": "CITY",
+                "longitude": 124.58684,
+                "latitude": 1.19827,
+                "children": []
+            }, {
+                "id": 4000342,
+                "name": "Minahasa Tenggara Kab.",
+                "type": "CITY",
+                "longitude": 124.7298,
+                "latitude": 1.02645,
+                "children": []
+            }, {
+                "id": 4000343,
+                "name": "Minahasa Utara Kab.",
+                "type": "CITY",
+                "longitude": 124.99546,
+                "latitude": 1.53307,
+                "children": []
+            }, {
+                "id": 4000348,
+                "name": "Tomohon Kota",
+                "type": "CITY",
+                "longitude": 124.84012,
+                "latitude": 1.32386,
+                "children": []
+            }]
+        }, {
+            "id": 2000029,
+            "name": "Sumatra Barat",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000137,
+                "name": "Agam Kab.",
+                "type": "CITY",
+                "longitude": 100.17033,
+                "latitude": -0.22094,
+                "children": []
+            }, {
+                "id": 4000149,
+                "name": "Bukittinggi Kota",
+                "type": "CITY",
+                "longitude": 100.38331,
+                "latitude": -0.30413,
+                "children": []
+            }, {
+                "id": 4000138,
+                "name": "Dharmasraya Kab.",
+                "type": "CITY",
+                "longitude": 101.61799,
+                "latitude": -1.10505,
+                "children": []
+            }, {
+                "id": 4000140,
+                "name": "Kepulauan Mentawai Kab.",
+                "type": "CITY",
+                "longitude": 98.93111,
+                "latitude": -1.42903,
+                "children": []
+            }, {
+                "id": 4000139,
+                "name": "Lima Puluh Kota Kab.",
+                "type": "CITY",
+                "longitude": 100.5339,
+                "latitude": 0.07302,
+                "children": []
+            }, {
+                "id": 4000150,
+                "name": "Padang Kota",
+                "type": "CITY",
+                "longitude": 100.32752,
+                "latitude": -0.80737,
+                "children": []
+            }, {
+                "id": 4000151,
+                "name": "Padang Panjang Kota",
+                "type": "CITY",
+                "longitude": 100.3989,
+                "latitude": -0.46288,
+                "children": []
+            }, {
+                "id": 4000141,
+                "name": "Padang Pariaman Kab.",
+                "type": "CITY",
+                "longitude": 100.21675,
+                "latitude": -0.5564,
+                "children": []
+            }, {
+                "id": 4000152,
+                "name": "Pariaman Kota",
+                "type": "CITY",
+                "longitude": 100.13316,
+                "latitude": -0.59934,
+                "children": []
+            }, {
+                "id": 4000143,
+                "name": "Pasaman Barat Kab.",
+                "type": "CITY",
+                "longitude": 99.63653,
+                "latitude": 0.22229,
+                "children": []
+            }, {
+                "id": 4000142,
+                "name": "Pasaman Kab.",
+                "type": "CITY",
+                "longitude": 100.16809,
+                "latitude": 0.301,
+                "children": []
+            }, {
+                "id": 4000153,
+                "name": "Payakumbuh Kota",
+                "type": "CITY",
+                "longitude": 100.63172,
+                "latitude": -0.22503,
+                "children": []
+            }, {
+                "id": 4000144,
+                "name": "Pesisir Selatan Kab.",
+                "type": "CITY",
+                "longitude": 100.88366,
+                "latitude": -1.64356,
+                "children": []
+            }, {
+                "id": 4000154,
+                "name": "Sawahlunto Kota",
+                "type": "CITY",
+                "longitude": 100.36593,
+                "latitude": -0.89456,
+                "children": []
+            }, {
+                "id": 4000145,
+                "name": "Sijunjung Kab.",
+                "type": "CITY",
+                "longitude": 101.02584,
+                "latitude": -0.62815,
+                "children": []
+            }, {
+                "id": 4000146,
+                "name": "Solok Kab.",
+                "type": "CITY",
+                "longitude": 100.65486,
+                "latitude": -0.78874,
+                "children": []
+            }, {
+                "id": 4000155,
+                "name": "Solok Kota",
+                "type": "CITY",
+                "longitude": 100.42768,
+                "latitude": -0.92875,
+                "children": []
+            }, {
+                "id": 4000147,
+                "name": "Solok Selatan Kab.",
+                "type": "CITY",
+                "longitude": 101.25018,
+                "latitude": -1.40564,
+                "children": []
+            }, {
+                "id": 4000148,
+                "name": "Tanah Datar Kab.",
+                "type": "CITY",
+                "longitude": 100.57454,
+                "latitude": -0.4657,
+                "children": []
+            }]
+        }, {
+            "id": 2000030,
+            "name": "Sumatra Selatan",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000355,
+                "name": "Banyuasin Kab.",
+                "type": "CITY",
+                "longitude": 104.74622,
+                "latitude": -2.14332,
+                "children": []
+            }, {
+                "id": 4000356,
+                "name": "Empat Lawang Kab.",
+                "type": "CITY",
+                "longitude": 102.8915,
+                "latitude": -3.72796,
+                "children": []
+            }, {
+                "id": 4000516,
+                "name": "Kab. Musi Rawas Utara",
+                "type": "CITY",
+                "longitude": 102.71351,
+                "latitude": -2.78776,
+                "children": []
+            }, {
+                "id": 4000517,
+                "name": "Kab. Penukal Abab Lematang Ilir",
+                "type": "CITY",
+                "longitude": 104.00723,
+                "latitude": -3.23983,
+                "children": []
+            }, {
+                "id": 4000357,
+                "name": "Lahat Kab.",
+                "type": "CITY",
+                "longitude": 103.54051,
+                "latitude": -3.78569,
+                "children": []
+            }, {
+                "id": 4000366,
+                "name": "Lubuklinggau Kota",
+                "type": "CITY",
+                "longitude": 102.85789,
+                "latitude": -3.29913,
+                "children": []
+            }, {
+                "id": 4000358,
+                "name": "Muara Enim Kab.",
+                "type": "CITY",
+                "longitude": 103.77133,
+                "latitude": -3.64967,
+                "children": []
+            }, {
+                "id": 4000359,
+                "name": "Musi Banyuasin Kab.",
+                "type": "CITY",
+                "longitude": 103.84196,
+                "latitude": -2.89028,
+                "children": []
+            }, {
+                "id": 4000360,
+                "name": "Musi Rawas Kab.",
+                "type": "CITY",
+                "longitude": 103.0126,
+                "latitude": -3.23335,
+                "children": []
+            }, {
+                "id": 4000361,
+                "name": "Ogan Ilir Kab.",
+                "type": "CITY",
+                "longitude": 104.6537,
+                "latitude": -3.20566,
+                "children": []
+            }, {
+                "id": 4000362,
+                "name": "Ogan Komering Ilir Kab.",
+                "type": "CITY",
+                "longitude": 105.21742,
+                "latitude": -3.46196,
+                "children": []
+            }, {
+                "id": 4000363,
+                "name": "Ogan Komering Ulu Kab.",
+                "type": "CITY",
+                "longitude": 104.00071,
+                "latitude": -4.02554,
+                "children": []
+            }, {
+                "id": 4000364,
+                "name": "Ogan Komering Ulu Selatan Kab.",
+                "type": "CITY",
+                "longitude": 104.00544,
+                "latitude": -4.67305,
+                "children": []
+            }, {
+                "id": 4000365,
+                "name": "Ogan Komering Ulu Timur Kab.",
+                "type": "CITY",
+                "longitude": 104.74602,
+                "latitude": -3.85832,
+                "children": []
+            }, {
+                "id": 4000367,
+                "name": "Pagar Alam Kota",
+                "type": "CITY",
+                "longitude": 103.2309,
+                "latitude": -4.04117,
+                "children": []
+            }, {
+                "id": 4000368,
+                "name": "Palembang Kota",
+                "type": "CITY",
+                "longitude": 104.77086,
+                "latitude": -2.97828,
+                "children": []
+            }, {
+                "id": 4000369,
+                "name": "Prabumulih Kota",
+                "type": "CITY",
+                "longitude": 104.24372,
+                "latitude": -3.42136,
+                "children": []
+            }]
+        }, {
+            "id": 2000031,
+            "name": "Sumatra Utara",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000104,
+                "name": "Asahan Kab.",
+                "type": "CITY",
+                "longitude": 99.61209,
+                "latitude": 2.9849,
+                "children": []
+            }, {
+                "id": 4000105,
+                "name": "Batubara Kab.",
+                "type": "CITY",
+                "longitude": 99.50061,
+                "latitude": 3.1741,
+                "children": []
+            }, {
+                "id": 4000129,
+                "name": "Binjai Kota",
+                "type": "CITY",
+                "longitude": 98.47033,
+                "latitude": 3.59529,
+                "children": []
+            }, {
+                "id": 4000106,
+                "name": "Dairi Kab.",
+                "type": "CITY",
+                "longitude": 98.30931,
+                "latitude": 2.75334,
+                "children": []
+            }, {
+                "id": 4000107,
+                "name": "Deli Serdang Kab.",
+                "type": "CITY",
+                "longitude": 98.86936,
+                "latitude": 3.54834,
+                "children": []
+            }, {
+                "id": 4000130,
+                "name": "Gunung Sitoli Kota",
+                "type": "CITY",
+                "longitude": 97.60738,
+                "latitude": 1.27927,
+                "children": []
+            }, {
+                "id": 4000108,
+                "name": "Humbang Hasundutan Kab.",
+                "type": "CITY",
+                "longitude": 98.71344,
+                "latitude": 2.28841,
+                "children": []
+            }, {
+                "id": 4000109,
+                "name": "Karo Kab.",
+                "type": "CITY",
+                "longitude": 98.23975,
+                "latitude": 3.4111,
+                "children": []
+            }, {
+                "id": 4000110,
+                "name": "Labuhanbatu Kab.",
+                "type": "CITY",
+                "longitude": 99.84563,
+                "latitude": 2.09483,
+                "children": []
+            }, {
+                "id": 4000111,
+                "name": "Labuhanbatu Selatan Kab.",
+                "type": "CITY",
+                "longitude": 100.25201,
+                "latitude": 1.76645,
+                "children": []
+            }, {
+                "id": 4000112,
+                "name": "Labuhanbatu Utara Kab.",
+                "type": "CITY",
+                "longitude": 99.72782,
+                "latitude": 2.17507,
+                "children": []
+            }, {
+                "id": 4000113,
+                "name": "Langkat Kab.",
+                "type": "CITY",
+                "longitude": 98.30884,
+                "latitude": 3.86539,
+                "children": []
+            }, {
+                "id": 4000114,
+                "name": "Mandailing Natal Kab.",
+                "type": "CITY",
+                "longitude": 99.12214,
+                "latitude": 0.55711,
+                "children": []
+            }, {
+                "id": 4000131,
+                "name": "Medan Kota",
+                "type": "CITY",
+                "longitude": 98.69567,
+                "latitude": 3.56306,
+                "children": []
+            }, {
+                "id": 4000116,
+                "name": "Nias Barat Kab.",
+                "type": "CITY",
+                "longitude": 97.53018,
+                "latitude": 1.12537,
+                "children": []
+            }, {
+                "id": 4000115,
+                "name": "Nias Kab.",
+                "type": "CITY",
+                "longitude": 97.52659,
+                "latitude": 1.1238,
+                "children": []
+            }, {
+                "id": 4000117,
+                "name": "Nias Selatan Kab.",
+                "type": "CITY",
+                "longitude": 97.82864,
+                "latitude": 0.70861,
+                "children": []
+            }, {
+                "id": 4000118,
+                "name": "Nias Utara Kab.",
+                "type": "CITY",
+                "longitude": 97.386,
+                "latitude": 1.32251,
+                "children": []
+            }, {
+                "id": 4000119,
+                "name": "Padang Lawas Kab.",
+                "type": "CITY",
+                "longitude": 99.80966,
+                "latitude": 1.12358,
+                "children": []
+            }, {
+                "id": 4000132,
+                "name": "Padang Sidempuan Kota",
+                "type": "CITY",
+                "longitude": 99.27274,
+                "latitude": 1.37223,
+                "children": []
+            }, {
+                "id": 4000133,
+                "name": "Pematangsiantar Kota",
+                "type": "CITY",
+                "longitude": 99.06289,
+                "latitude": 2.96531,
+                "children": []
+            }, {
+                "id": 4000122,
+                "name": "Samosir Kab.",
+                "type": "CITY",
+                "longitude": 98.79346,
+                "latitude": 2.6467,
+                "children": []
+            }, {
+                "id": 4000123,
+                "name": "Serdang Bedagai Kab.",
+                "type": "CITY",
+                "longitude": 99.05243,
+                "latitude": 3.33494,
+                "children": []
+            }, {
+                "id": 4000134,
+                "name": "Sibolga Kota",
+                "type": "CITY",
+                "longitude": 98.7797,
+                "latitude": 1.73701,
+                "children": []
+            }, {
+                "id": 4000124,
+                "name": "Simalungun Kab.",
+                "type": "CITY",
+                "longitude": 99.27305,
+                "latitude": 2.97664,
+                "children": []
+            }, {
+                "id": 4000135,
+                "name": "Tanjung Balai Kota",
+                "type": "CITY",
+                "longitude": 99.80058,
+                "latitude": 2.95847,
+                "children": []
+            }, {
+                "id": 4000125,
+                "name": "Tapanuli Selatan Kab.",
+                "type": "CITY",
+                "longitude": 99.27248,
+                "latitude": 1.64709,
+                "children": []
+            }, {
+                "id": 4000126,
+                "name": "Tapanuli Tengah Kab.",
+                "type": "CITY",
+                "longitude": 98.70306,
+                "latitude": 1.85003,
+                "children": []
+            }, {
+                "id": 4000127,
+                "name": "Tapanuli Utara Kab.",
+                "type": "CITY",
+                "longitude": 99.09961,
+                "latitude": 2.07541,
+                "children": []
+            }, {
+                "id": 4000136,
+                "name": "Tebing Tinggi Kota",
+                "type": "CITY",
+                "longitude": 99.15932,
+                "latitude": 3.32871,
+                "children": []
+            }, {
+                "id": 4000128,
+                "name": "Toba Samosir Kab.",
+                "type": "CITY",
+                "longitude": 99.27991,
+                "latitude": 2.35537,
+                "children": []
+            }]
+        }, {
+            "id": 2000032,
+            "name": "Yogyakarta D.I.",
+            "type": "STATE",
+            "longitude": 106.84513,
+            "latitude": -6.21462,
+            "children": [{
+                "id": 4000068,
+                "name": "Bantul Kab.",
+                "type": "CITY",
+                "longitude": 110.32415,
+                "latitude": -7.87495,
+                "children": []
+            }, {
+                "id": 4000069,
+                "name": "Gunung Kidul Kab.",
+                "type": "CITY",
+                "longitude": 110.58407,
+                "latitude": -7.97265,
+                "children": []
+            }, {
+                "id": 4000070,
+                "name": "Kulon Progo Kab.",
+                "type": "CITY",
+                "longitude": 110.16502,
+                "latitude": -7.85618,
+                "children": []
+            }, {
+                "id": 4000071,
+                "name": "Sleman Kab.",
+                "type": "CITY",
+                "longitude": 110.33519,
+                "latitude": -7.71514,
+                "children": []
+            }, {
+                "id": 4000072,
+                "name": "Yogyakarta Kota",
+                "type": "CITY",
+                "longitude": 110.37611,
+                "latitude": -7.80067,
+                "children": []
+            }]
+        }]
+    }],
+    "metadata": {
+        "update": null
+    }
+}

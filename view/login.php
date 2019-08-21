@@ -11,7 +11,7 @@
 				<h3 class="panel-title"><i class="fa fa-user"></i> Login</h3>
 			</div>
 			<div class="panel-body">
-				<form class="form-horizontal" role="form" action="#" method="POST">
+				<form class="form-horizontal" role="form" action="index.php?action=login" method="POST">
 					<div class="form-group">
 						<label class="col-md-2 control-label">Email</label>
 						<div class="col-md-10">

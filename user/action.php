@@ -1,16 +1,18 @@
 <?php
 $token = @$_SESSION['token'] ? $_SESSION['token'] : '';
-$d['header'] = 'Host:api.olx.co.id
-user-agent:Android App Ver 7.16.7 (Android 5.1;)
-device:Android
-build-version:7.16.7
-build-number:663
-Connection: keep-alive
-authorization: Bearer ' . $token;
+$d['header'] = 'User-Agent:android 13.21.04 olxid
+x-origin-panamera:Production
+Content-Type:application/json; charset=UTF-8
+Host:api.olx.co.id
+Connection:Keep-Alive
+Accept-Encoding:gzip';
+if ($token !== '') {
+    $d['header'] .= '
+Authorization: Bearer ' . $token;
+}
 
 
 
-$d['cookie'] = 1;
 
 $base = "https://api.olx.co.id/api/v2/";
 if ($aksi !== 'login') {
@@ -23,6 +25,7 @@ if ($aksi == 'logout') {
     session_unset();
 }
 if ($aksi == 'login') {
+
     if (@$_SESSION['token']) {
         if ($_SESSION['token'] != '') {
             header('Location:index.php?action=dashboard');
@@ -35,7 +38,7 @@ if ($aksi == 'login') {
 
             $user = $_POST['email'];
             $password = $_POST['password'];
-            $d['url'] = $base . 'oauth/token';
+            $d['url'] = 'https://api.olx.co.id/v1/auth/authenticate';
             $d['user'] = $user;
             $d['password'] = $password;
             include('function.php');
@@ -44,13 +47,21 @@ if ($aksi == 'login') {
     }
 }
 
-if ($aksi == 'dashboard') {
-    $d['url'] = $base . 'account/adverts';
+if ($aksi == 'users') {
+    $d['url'] = 'https://api.olx.co.id/api/v1/users/me';
     include('function.php');
-    data_iklan($d, $file);
+    get_user($d);
+    header('Location:index.php?action=dashboard');
 }
 
+if ($aksi == 'dashboard') {
 
+    $d['url'] = 'https://api.olx.co.id/api/v2/users/' . $_SESSION['id'] . '/items';
+
+    include('function.php');
+
+    data_iklan($d, $file);
+}
 
 
 

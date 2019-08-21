@@ -31,19 +31,22 @@
                             <th>Nama</th>
                             <th>Kategori</th>
                             <th>Harga</th>
+                            <th>Ganbar</th>
                             <th>Kondisi</th>
                             <th>Status</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <?php foreach ($data as $d) { ?>
+                        <?php
+                            foreach ($data as $d) { ?>
                         <tr>
                             <td><?= $d['id'] ?></td>
                             <td><a href="<?= $d['url'] ?>" target="_blank"><?= $d['title'] ?></a></td>
                             <td><?= $kategori[$d['category_id']] ?></td>
-                            <td><?= $d['params']['price']['value'] ?></td>
-                            <td><?php if (@$d['params']['condition']) echo $d['params']['condition']['value'] ?></td>
-                            <td><?= $d['status'] ?></td>
+                            <td><?= $d['price']['value']['raw'] ?></td>
+                            <td><img src="<?= $d['images'][0]['medium']['url'] ?>" height="50px" weight="50px"></td>
+                            <td><?php if (@$d['parameters'][0]['value_name']) echo $d['parameters'][0]['value_name'] ?></td>
+                            <td><?= $d['status']['translated_display'] . " - " . $d['status']['message'] ?></td>
                         </tr>
                         <?php }
                         } ?>
